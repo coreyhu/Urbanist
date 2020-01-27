@@ -10,7 +10,7 @@ F,
 "the new line\012the",
 "/seveninferior",
 "/sevensuperior",
-M,
+renaissance,
 "Á",
 "/ninesuperior",
 "/nineinferior",
@@ -22,7 +22,10 @@ M,
 "ÄËÖÜ/Wdieresis/Ydieresis",
 "AÁÂÄÀ",
 "@",
-"¤"
+"¤",
+"there shall be no renaissance",
+"",
+"æ"
 );
 copyright = "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)";
 customParameters = (
@@ -40,13 +43,25 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = hheaAscender;
-value = 1900;
-},
-{
 name = fsType;
 value = (
 );
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = KERN;
+},
+{
+name = versionString;
+value = "Version 1.000; befe77262ef67d88f1d94aa3d2e49ef1327b4483";
+},
+{
+name = "Make morx table";
+value = 1;
 }
 );
 date = "2020-01-23 21:22:09 +0000";
@@ -88,12 +103,6 @@ fontMaster = (
 ascender = 1900;
 capHeight = 1400;
 custom = Black;
-customParameters = (
-{
-name = "Name Table Entry";
-value = "14; http://scripts.sil.org/OFL";
-}
-);
 descender = -500;
 horizontalStems = (
 300
@@ -111,16 +120,6 @@ xHeight = 1000;
 ascender = 1900;
 capHeight = 1400;
 custom = Thin;
-customParameters = (
-{
-name = "Grid Spacing";
-value = 0;
-},
-{
-name = "Name Table Entry";
-value = "14; http://scripts.sil.org/OFL";
-}
-);
 descender = -500;
 horizontalStems = (
 60
@@ -3967,7 +3966,7 @@ unicode = 00E3;
 },
 {
 glyphname = ae;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 06:50:47 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -4541,7 +4540,7 @@ unicode = 00F0;
 },
 {
 glyphname = e;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 06:59:28 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -4549,38 +4548,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1110 722 OFFCURVE",
-"878 1028 OFFCURVE",
-"560 1028 CURVE",
-"284 1028 OFFCURVE",
-"60 792 OFFCURVE",
-"60 502 CURVE",
-"60 210 OFFCURVE",
-"284 -26 OFFCURVE",
-"560 -26 CURVE",
 "760 -26 OFFCURVE",
 "932 98 OFFCURVE",
-"1012 276 CURVE",
-"706 348 LINE",
+"1013 276 CURVE",
+"707 347 LINE",
 "670 302 OFFCURVE",
-"618 274 OFFCURVE",
-"560 274 CURVE",
-"466 276 OFFCURVE",
+"618 273 OFFCURVE",
+"560 274 CURVE SMOOTH",
+"467 276 OFFCURVE",
 "412 330 OFFCURVE",
-"384 402 CURVE",
-"1050 402 LINE"
+"384 401 CURVE",
+"1051 401 LINE",
+"1111 719 OFFCURVE",
+"879 1028 OFFCURVE",
+"560 1028 CURVE SMOOTH",
+"284 1028 OFFCURVE",
+"60 792 OFFCURVE",
+"60 501 CURVE SMOOTH",
+"60 210 OFFCURVE",
+"284 -26 OFFCURVE",
+"560 -26 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
+"402 707 OFFCURVE",
+"475 768 OFFCURVE",
+"560 768 CURVE SMOOTH",
 "646 768 OFFCURVE",
-"718 708 OFFCURVE",
-"746 622 CURVE",
-"372 622 LINE",
-"400 708 OFFCURVE",
-"474 768 OFFCURVE",
-"560 768 CURVE"
+"719 707 OFFCURVE",
+"748 621 CURVE",
+"373 621 LINE"
 );
 }
 );
@@ -4592,38 +4591,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1052 804 OFFCURVE",
-"846 1028 OFFCURVE",
-"560 1028 CURVE",
-"284 1028 OFFCURVE",
-"60 792 OFFCURVE",
-"60 500 CURVE",
-"60 210 OFFCURVE",
-"284 -26 OFFCURVE",
-"560 -26 CURVE",
 "760 -26 OFFCURVE",
 "932 98 OFFCURVE",
 "1012 276 CURVE",
 "952 290 LINE",
 "872 130 OFFCURVE",
 "730 34 OFFCURVE",
-"560 34 CURVE",
+"560 34 CURVE SMOOTH",
 "330 34 OFFCURVE",
 "140 220 OFFCURVE",
 "120 470 CURVE",
-"1058 470 LINE"
+"1058 470 LINE",
+"1052 804 OFFCURVE",
+"846 1028 OFFCURVE",
+"560 1028 CURVE SMOOTH",
+"284 1028 OFFCURVE",
+"60 792 OFFCURVE",
+"60 500 CURVE SMOOTH",
+"60 210 OFFCURVE",
+"284 -26 OFFCURVE",
+"560 -26 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
+"136 772 OFFCURVE",
+"322 968 OFFCURVE",
+"560 968 CURVE SMOOTH",
 "796 968 OFFCURVE",
 "990 764 OFFCURVE",
 "998 530 CURVE",
-"120 530 LINE",
-"136 772 OFFCURVE",
-"322 968 OFFCURVE",
-"560 968 CURVE"
+"120 530 LINE"
 );
 }
 );
@@ -19150,12 +19149,6 @@ unicode = 02DB;
 );
 instances = (
 {
-customParameters = (
-{
-name = "Name Table Entry";
-value = "14; http://scripts.sil.org/OFL";
-}
-);
 interpolationWeight = 150;
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 1;
@@ -19164,12 +19157,6 @@ name = Black;
 weightClass = Black;
 },
 {
-customParameters = (
-{
-name = "Name Table Entry";
-value = "14; http://scripts.sil.org/OFL";
-}
-);
 interpolationWeight = 110;
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.66667;
@@ -19181,12 +19168,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = "Name Table Entry";
-value = "14; http://scripts.sil.org/OFL";
-}
-);
 interpolationWeight = 70;
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.33333;
@@ -19197,8 +19178,8 @@ name = Regular;
 {
 customParameters = (
 {
-name = "Name Table Entry";
-value = "14; http://scripts.sil.org/OFL";
+name = "Grid Spacing";
+value = 0;
 }
 );
 interpolationWeight = 30;
