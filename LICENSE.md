@@ -1,8 +1,5 @@
-Copyright (c) <dates>, <Copyright Holder> (<URL|email>),
-with Reserved Font Name <Reserved Font Name>.
-Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>),
-with Reserved Font Name <additional Reserved Font Name>.
-Copyright (c) <dates>, <additional Copyright Holder> (<URL|email>).
+Copyright (c) 2020, Corey Hu (corey.huym@gmail.com),
+with Reserved Font Name Urbanist.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
