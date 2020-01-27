@@ -11,7 +11,9 @@ F,
 "/seveninferior",
 "/sevensuperior",
 M,
-"Á"
+"Á",
+"/ninesuperior",
+"/nineinferior"
 );
 copyright = "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)";
 customParameters = (
@@ -9022,7 +9024,7 @@ unicode = 2088;
 },
 {
 glyphname = nineinferior;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 04:44:34 +0000";
 layers = (
 {
 components = (
@@ -9037,10 +9039,11 @@ width = 548;
 components = (
 {
 name = nine.dnom;
+transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
 layerId = "9AF1F7D9-E035-453E-B2A8-46DE370997D0";
-width = 548;
+width = 550;
 }
 );
 leftMetricsKey = nine;
@@ -10981,7 +10984,7 @@ unicode = 2078;
 },
 {
 glyphname = ninesuperior;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 04:44:24 +0000";
 layers = (
 {
 components = (
@@ -10996,10 +10999,11 @@ width = 548;
 components = (
 {
 name = nine.numr;
+transform = "{1, 0, 0, 1, 1, 0}";
 }
 );
 layerId = "9AF1F7D9-E035-453E-B2A8-46DE370997D0";
-width = 548;
+width = 550;
 }
 );
 leftMetricsKey = nine;
