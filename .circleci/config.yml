@@ -15,7 +15,7 @@ jobs:
 
               command: |
                 cd ttfs
-                fontbakery check-googlefonts *.ttf 
+                fontbakery check-googlefonts -n -l WARN *.ttf
             
 workflows:
   launch:
