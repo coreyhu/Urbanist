@@ -4,8 +4,6 @@ jobs:
   build:
     docker:
       - image: circleci/python:3.7
-  
-    working_directory: ~/repo
 
     steps:
           - checkout
@@ -16,8 +14,8 @@ jobs:
               name: run fontbakery tests
 
               command: |
-              cd ttfs
-              fontbakery check-googlefonts *.ttf 
+                cd ttfs
+                fontbakery check-googlefonts *.ttf 
             
 workflows:
   launch:
