@@ -1,34 +1,7 @@
 {
 .appVersion = "1286";
 DisplayStrings = (
-"/partialdiff",
-"/partialdiff ð",
-"ð",
-"á",
-"À",
-F,
-"the new line\012the",
-"/seveninferior",
-"/sevensuperior",
-renaissance,
-"Á",
-"/ninesuperior",
-"/nineinferior",
-"Ö",
-"Ü",
-"UÚÛÜÙ",
-"W/Wacute/Wcircumflex/Wdieresis/Wgrave",
-"YÝ/Ycircumflex/Ydieresis/Ygrave",
-"ÄËÖÜ/Wdieresis/Ydieresis",
-"AÁÂÄÀ",
-"@",
-"¤",
-"there shall be no renaissance",
-"",
-"æ",
-"battle royale",
-"/zero.numr",
-"¶"
+"Worst case?"
 );
 copyright = "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)";
 customParameters = (
@@ -52,7 +25,7 @@ value = (
 },
 {
 name = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "http://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -63,8 +36,8 @@ name = versionString;
 value = "Version 1.000; befe77262ef67d88f1d94aa3d2e49ef1327b4483";
 },
 {
-name = "Make morx table";
-value = 1;
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 }
 );
 date = "2020-01-23 21:22:09 +0000";
@@ -82,8 +55,28 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature numr;\012feature dnom;\012feature frac;\012";
+code = "feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012";
 name = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb];\012	sub [i]' @CombiningTopAccents by [idotless];\012	sub [i]' @CombiningNonTopAccents @CombiningTopAccents by [idotless];\012} ccmp_Other_1;\012";
+name = ccmp;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = subs;
+},
+{
+automatic = 1;
+code = "sub zero by zeroinferior;\012sub one by oneinferior;\012sub two by twoinferior;\012sub three by threeinferior;\012sub four by fourinferior;\012sub five by fiveinferior;\012sub six by sixinferior;\012sub seven by seveninferior;\012sub eight by eightinferior;\012sub nine by nineinferior;\012";
+name = sinf;
+},
+{
+automatic = 1;
+code = "sub zero by zerosuperior;\012sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012sub five by fivesuperior;\012sub six by sixsuperior;\012sub seven by sevensuperior;\012sub eight by eightsuperior;\012sub nine by ninesuperior;\012";
+name = sups;
 },
 {
 automatic = 1;
@@ -99,6 +92,11 @@ name = dnom;
 automatic = 1;
 code = "lookup FRAC {\012	sub slash by fraction;\012} FRAC;\012lookup UP {\012	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];\012} UP;\012lookup DOWN {\012	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012} DOWN;\012";
 name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
 }
 );
 fontMaster = (
@@ -4855,7 +4853,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:27:47 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -5049,7 +5047,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:27:08 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -5648,7 +5646,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:27:00 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -5754,7 +5752,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2020-01-27 09:16:48 +0000";
+lastChange = "2020-01-27 21:28:34 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -6595,7 +6593,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:27:04 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -6662,7 +6660,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:28:38 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -11831,7 +11829,7 @@ unicode = 00A1;
 },
 {
 glyphname = question;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:28:09 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -19183,6 +19181,10 @@ customParameters = (
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = weightClass;
+value = "New Value";
 }
 );
 interpolationWeight = 30;
@@ -19224,7 +19226,7 @@ kerning = {
 "@MMK_R_1" = -60;
 };
 "@MMK_L_F" = {
-"@MMK_R_1" = -20;
+"@MMK_R_1" = -30;
 "@MMK_R_A" = -180;
 "@MMK_R_j" = -100;
 "@MMK_R_n" = -50;
@@ -19353,12 +19355,12 @@ kerning = {
 "@MMK_R_1" = -30;
 "@MMK_R_2" = -90;
 "@MMK_R_h" = -20;
-"@MMK_R_n" = -40;
+"@MMK_R_n" = -35;
 "@MMK_R_v" = -90;
 "@MMK_R_y" = -100;
 };
 "@MMK_L_f" = {
-"@MMK_R_1" = -120;
+"@MMK_R_1" = -100;
 "@MMK_R_2" = -40;
 "@MMK_R_i" = -70;
 "@MMK_R_j" = -100;
@@ -19411,6 +19413,7 @@ kerning = {
 "@MMK_R_1" = -40;
 "@MMK_R_2" = -70;
 "@MMK_R_3" = 10;
+"@MMK_R_i" = -10;
 "@MMK_R_n" = -70;
 "@MMK_R_one" = -60;
 "@MMK_R_quotesingle" = -140;
@@ -19459,7 +19462,7 @@ a = -70;
 "@MMK_R_four" = -60;
 "@MMK_R_h" = -60;
 "@MMK_R_i" = -40;
-"@MMK_R_n" = -40;
+"@MMK_R_n" = -50;
 "@MMK_R_one" = -30;
 "@MMK_R_p" = -50;
 "@MMK_R_y" = -50;
@@ -19478,7 +19481,7 @@ a = -70;
 "@MMK_R_v" = -100;
 };
 "@MMK_L_t" = {
-"@MMK_R_1" = -30;
+"@MMK_R_1" = -60;
 "@MMK_R_i" = -60;
 "@MMK_R_y" = -80;
 };
@@ -19545,7 +19548,7 @@ d = {
 "@MMK_R_H" = 80;
 };
 "@MMK_L_F" = {
-"@MMK_R_1" = -70;
+"@MMK_R_1" = -80;
 "@MMK_R_A" = -180;
 "@MMK_R_j" = -240;
 "@MMK_R_n" = -40;
@@ -19728,7 +19731,8 @@ h = -20;
 "@MMK_R_1" = -20;
 };
 "@MMK_L_o" = {
-"@MMK_R_1" = -80;
+"@MMK_R_1" = -30;
+"@MMK_R_2" = -20;
 "@MMK_R_f" = -170;
 "@MMK_R_n" = -60;
 "@MMK_R_p" = 20;
@@ -19764,6 +19768,7 @@ h = -20;
 "@MMK_R_1" = -60;
 "@MMK_R_O" = 60;
 "@MMK_R_h" = 40;
+"@MMK_R_question" = -40;
 "@MMK_R_t" = -40;
 };
 "@MMK_L_seven" = {
@@ -19776,7 +19781,7 @@ h = -20;
 "@MMK_R_v" = -40;
 };
 "@MMK_L_t" = {
-"@MMK_R_1" = -140;
+"@MMK_R_1" = -80;
 "@MMK_R_2" = -140;
 "@MMK_R_i" = -80;
 "@MMK_R_n" = -50;
