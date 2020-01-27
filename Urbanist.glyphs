@@ -1,7 +1,9 @@
 {
 .appVersion = "1286";
 DisplayStrings = (
-"Worst case?"
+"Worst case?",
+"/zerosuperior ¹²³/four.numr/foursuperior/five.numr/fivesuperior/six.numr/sixsuperior/seven.numr/sevensuperior/eightsuperior/ninesuperior",
+"/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr"
 );
 copyright = "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)";
 customParameters = (
@@ -10283,7 +10285,7 @@ rightKerningGroup = four.numr;
 },
 {
 glyphname = five.numr;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:34:04 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -10300,10 +10302,10 @@ nodes = (
 "268 1218 OFFCURVE",
 "258 1218 OFFCURVE",
 "252 1218 CURVE",
-"252 1252 LINE",
-"408 1252 LINE",
-"408 1372 LINE",
-"124 1372 LINE",
+"252 1254 LINE",
+"408 1254 LINE",
+"408 1374 LINE",
+"124 1374 LINE",
 "96 1072 LINE",
 "150 1078 OFFCURVE",
 "240 1082 OFFCURVE",
@@ -10341,10 +10343,10 @@ nodes = (
 "226 1188 OFFCURVE",
 "200 1186 OFFCURVE",
 "174 1182 CURVE",
-"184 1312 LINE",
-"420 1312 LINE",
-"420 1372 LINE",
-"130 1372 LINE",
+"184 1314 LINE",
+"420 1314 LINE",
+"420 1374 LINE",
+"130 1374 LINE",
 "106 1100 LINE",
 "174 1122 OFFCURVE",
 "194 1128 OFFCURVE",
@@ -10373,7 +10375,7 @@ rightKerningGroup = five.numr;
 },
 {
 glyphname = six.numr;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:33:34 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -10429,9 +10431,9 @@ nodes = (
 "468 1134 OFFCURVE",
 "354 1236 OFFCURVE",
 "228 1204 CURVE",
-"326 1374 LINE",
-"256 1374 LINE",
-"112 1130 OFFCURVE",
+"325 1372 LINE",
+"255 1372 LINE",
+"111 1128 OFFCURVE",
 "80 1082 OFFCURVE",
 "80 1016 CURVE SMOOTH",
 "80 914 OFFCURVE",
@@ -10465,7 +10467,7 @@ rightKerningGroup = six.numr;
 },
 {
 glyphname = seven.numr;
-lastChange = "2020-01-27 03:55:58 +0000";
+lastChange = "2020-01-27 21:34:18 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -10474,11 +10476,11 @@ paths = (
 closed = 1;
 nodes = (
 "290 848 LINE",
-"512 1234 LINE",
-"512 1370 LINE",
-"100 1370 LINE",
-"100 1230 LINE",
-"350 1230 LINE",
+"512 1236 LINE",
+"512 1372 LINE",
+"100 1372 LINE",
+"100 1232 LINE",
+"350 1232 LINE",
 "130 848 LINE"
 );
 }
@@ -10491,13 +10493,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"206 848 LINE",
-"450 1272 LINE",
-"450 1332 LINE",
-"100 1332 LINE",
-"100 1272 LINE",
-"380 1272 LINE",
-"136 848 LINE"
+"183 848 LINE",
+"450 1314 LINE",
+"450 1374 LINE",
+"100 1374 LINE",
+"100 1314 LINE",
+"380 1314 LINE",
+"113 848 LINE"
 );
 }
 );
