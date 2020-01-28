@@ -1,6 +1,6 @@
 # The Urbanist Font Family
 
-![coreyhu](https://circleci.com/gh/coreywho/Urbanist.svg?style=svg)
+[![coreywho](https://circleci.com/gh/coreywho/Urbanist.svg?style=shield)](https://app.circleci.com/github/coreywho/Urbanist/pipelines)
 
 ## Current Status
 Version 1.000 is the latest stable version.
