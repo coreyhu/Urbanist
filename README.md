@@ -1,5 +1,7 @@
 # The Urbanist Font Family
 
+![coreyhu](https://circleci.com/gh/coreywho/Urbanist.svg?style=svg)
+
 ## Current Status
 Version 1.000 is the latest stable version.
 
