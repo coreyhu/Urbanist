@@ -29,7 +29,10 @@ Corey.,
 "Jingle Bells.",
 "+=/southWestArrow",
 "/emptyset/infinity/integral/product/summation/radical/partialdiff µ%/perthousand",
-"&¶§©®/trademark °|¦/dagger/daggerdbl"
+"&¶§©®/trademark °|¦/dagger/daggerdbl",
+"/replacementCharacter",
+"/apostrophemod",
+z
 );
 copyright = "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)";
 customParameters = (
@@ -19222,6 +19225,15 @@ name = Black;
 weightClass = Black;
 },
 {
+interpolationWeight = 130;
+instanceInterpolations = {
+"10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.83333;
+"9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.16667;
+};
+name = ExtraBold;
+weightClass = ExtraBold;
+},
+{
 interpolationWeight = 110;
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.66667;
@@ -19233,12 +19245,30 @@ name = Bold;
 weightClass = Bold;
 },
 {
+interpolationWeight = 90;
+instanceInterpolations = {
+"10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.5;
+"9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.5;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
 interpolationWeight = 70;
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.33333;
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.66667;
 };
 name = Regular;
+},
+{
+interpolationWeight = 50;
+instanceInterpolations = {
+"10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.16667;
+"9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.83333;
+};
+name = Light;
+weightClass = Light;
 },
 {
 customParameters = (
