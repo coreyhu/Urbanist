@@ -3,7 +3,7 @@
 [![coreywho](https://circleci.com/gh/coreywho/Urbanist.svg?style=shield)](https://app.circleci.com/github/coreywho/Urbanist/pipelines)
 
 ## Current Status
-Version 1.000 is the latest stable version.
+Version 1.1 is the latest stable version.
 
 ## Description
 
