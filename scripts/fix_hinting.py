@@ -1,6 +1,6 @@
 import os
 
-font_dir = "../fonts"
+font_dir = "../fonts/static"
 
 def main():
     files = os.listdir(font_dir)
