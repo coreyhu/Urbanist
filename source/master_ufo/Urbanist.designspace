@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="250" maximum="900" default="900">
+      <map input="250" output="30"/>
+      <map input="300" output="50"/>
+      <map input="400" output="70"/>
+      <map input="600" output="90"/>
+      <map input="700" output="110"/>
+      <map input="800" output="130"/>
+      <map input="900" output="150"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Urbanist-Black.ufo" name="Urbanist Black" familyname="Urbanist" stylename="Black">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="150"/>
+      </location>
+    </source>
+    <source filename="Urbanist-Thin.ufo" name="Urbanist Thin" familyname="Urbanist" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="30"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Urbanist Black" familyname="Urbanist" stylename="Black" filename="../instance_ufo/Urbanist-Black.ufo" stylemapfamilyname="Urbanist Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="150"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist ExtraBold" familyname="Urbanist" stylename="ExtraBold" filename="../instance_ufo/Urbanist-ExtraBold.ufo" stylemapfamilyname="Urbanist ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="130"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Bold" familyname="Urbanist" stylename="Bold" filename="../instance_ufo/Urbanist-Bold.ufo" stylemapfamilyname="Urbanist" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="110"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist SemiBold" familyname="Urbanist" stylename="SemiBold" filename="../instance_ufo/Urbanist-SemiBold.ufo" stylemapfamilyname="Urbanist SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="90"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Regular" familyname="Urbanist" stylename="Regular" filename="../instance_ufo/Urbanist-Regular.ufo" stylemapfamilyname="Urbanist" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="70"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Light" familyname="Urbanist" stylename="Light" filename="../instance_ufo/Urbanist-Light.ufo" stylemapfamilyname="Urbanist Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Thin" familyname="Urbanist" stylename="Thin" filename="../instance_ufo/Urbanist-Thin.ufo" stylemapfamilyname="Urbanist Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="30"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Grid Spacing</string>
+              <integer>0</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>10BC12B3-5274-42E3-B5BC-F74F362F0DF4</key>
+        <dict/>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

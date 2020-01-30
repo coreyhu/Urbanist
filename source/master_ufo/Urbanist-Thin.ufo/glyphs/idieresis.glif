@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="300"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="120" y="1000" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="1000" type="line"/>
+    </contour>
+    <component base="dieresiscomb" xOffset="-422"/>
+  </outline>
+</glyph>

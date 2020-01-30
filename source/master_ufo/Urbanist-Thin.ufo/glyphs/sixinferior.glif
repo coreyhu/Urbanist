@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixinferior" format="2">
+  <advance width="588"/>
+  <unicode hex="2086"/>
+  <outline>
+    <component base="six.dnom"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>six</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>six</string>
+    </dict>
+  </lib>
+</glyph>

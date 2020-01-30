@@ -1,7 +1,7 @@
 {
 .appVersion = "1286";
 DisplayStrings = (
-"As I went on, still gaining velocity, the palpitation of night and day merged into one continuous greyness; the sky took on a wonderful deepness of blue, a splendid luminous color like that of early twilight; the jerking sun became a projecting streak of fire, a brilliant arch, in space; the moon a fainter fluctuating band; and I could see nothing of the stars, save now and then a brighter circlet flickering in the blue.",
+"defeats\012growth\012attained \012authority ",
 "/zerosuperior ¹²³/four.numr/foursuperior/five.numr/fivesuperior/six.numr/sixsuperior/seven.numr/sevensuperior/eightsuperior/ninesuperior",
 "/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr",
 "0123456789",
@@ -5540,7 +5540,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2020-01-27 22:51:50 +0000";
+lastChange = "2020-01-30 13:44:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -7474,7 +7474,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2020-01-28 10:31:04 +0000";
+lastChange = "2020-01-30 13:51:16 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -19535,7 +19535,7 @@ kerning = {
 "@MMK_R_1" = -40;
 "@MMK_R_2" = -70;
 "@MMK_R_3" = 10;
-"@MMK_R_h" = -40;
+"@MMK_R_h" = -20;
 "@MMK_R_i" = -10;
 "@MMK_R_n" = -50;
 "@MMK_R_one" = -60;
@@ -19619,7 +19619,7 @@ kerning = {
 "@MMK_R_n" = -10;
 "@MMK_R_t" = -70;
 "@MMK_R_u" = -100;
-"@MMK_R_y" = -80;
+"@MMK_R_y" = -140;
 };
 "@MMK_L_two" = {
 "@MMK_R_1" = -40;
@@ -19954,7 +19954,7 @@ h = -20;
 "@MMK_R_n" = -50;
 "@MMK_R_t" = -100;
 "@MMK_R_u" = -110;
-"@MMK_R_y" = -80;
+"@MMK_R_y" = -140;
 };
 "@MMK_L_three" = {
 "@MMK_R_y" = 20;
