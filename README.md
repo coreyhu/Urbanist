@@ -2,10 +2,11 @@
 
 [![coreywho](https://circleci.com/gh/coreywho/Urbanist.svg?style=shield)](https://app.circleci.com/github/coreywho/Urbanist/pipelines)
 
-## Current Status
-Version 1.000 is the latest stable version.
+## About
+Urbanist is an open source low-contrast, geometric sans serif inspired by Modernist typography. Designed from elementary shapes, Urbanist carries an intentional neutrality that grants it versatility across a variety of print and digital mediums.
 
-## Description
+## Current Status
+Version 1.1.10 is the latest stable version.
 
 ## Copyright
 Copyright (c) 2020, Corey Hu (corey.huym@gmail.com), with Reserved Font Name Urbanist
