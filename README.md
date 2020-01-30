@@ -16,6 +16,7 @@ Urbanist is an open source low-contrast, geometric sans serif inspired by Modern
   <img src="https://raw.githubusercontent.com/coreywho/Urbanist/1.1.1/documentation/readme/styles.png" width=80%>
 </p>
 
+
 There are 7 weights, each with an Oblique set.
  - Thin
  - Light
