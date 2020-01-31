@@ -97,7 +97,11 @@ L,
 "/Wacute",
 a,
 "¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior",
-"¹/fivesuperior/sixsuperior/sevensuperior"
+"¹/fivesuperior/sixsuperior/sevensuperior",
+"Ê",
+"aª",
+"ª",
+"AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕ/OE PÞQRS/Germandbls TUÚÛÜÙVW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Zaáâäàåãæbc/cacute çdðeéêëèfghi/idotless íîïìjklmnñoóôöòøõ/oe pþqrsßtuúûüùvw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis"
 );
 copyright = "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)";
 customParameters = (
@@ -2259,7 +2263,7 @@ unicode = 00C9;
 },
 {
 glyphname = Ecircumflex;
-lastChange = "2020-01-30 19:26:48 +0000";
+lastChange = "2020-01-31 00:32:19 +0000";
 layers = (
 {
 components = (
@@ -2268,7 +2272,7 @@ name = E;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -156, 334}";
+transform = "{1, 0, 0, 1, -95, 334}";
 }
 );
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -2281,7 +2285,7 @@ name = E;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -36, 334}";
+transform = "{1, 0, 0, 1, 5, 334}";
 }
 );
 layerId = "9AF1F7D9-E035-453E-B2A8-46DE370997D0";
@@ -2294,7 +2298,7 @@ name = E;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -109, 334}";
+transform = "{1, 0, 0, 1, -9, 334}";
 }
 );
 layerId = "40F4CE37-AA72-41CE-B959-3BA889E9F612";
@@ -2322,7 +2326,7 @@ name = E;
 {
 alignment = -1;
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -76, 334}";
+transform = "{1, 0, 0, 1, -28, 334}";
 }
 );
 layerId = "B3D2A076-B51C-44C1-915C-935C098147A8";
