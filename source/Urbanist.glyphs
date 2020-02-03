@@ -3,7 +3,7 @@
 DisplayStrings = (
 "harry otter",
 history,
-"rarbrcrdrerfrgrirjrkrlrmr\012\012rnrorprqrrrsrtrurvrwrxryrzr\012\012r/ellipsis r. r, r; r: r! r? r-r/endash r/emdash r/quoteright s r/quotedblright",
+"Harry potter",
 "8",
 "tfEven if",
 "/eight.dnom",
@@ -6767,7 +6767,7 @@ unicode = 005A;
 },
 {
 glyphname = a;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:13:11 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -7863,7 +7863,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:02:59 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -8146,7 +8146,7 @@ unicode = 00E7;
 },
 {
 glyphname = d;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:03:39 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -9960,7 +9960,7 @@ unicode = 00EC;
 },
 {
 glyphname = j;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:03:54 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -10299,7 +10299,7 @@ unicode = 006C;
 },
 {
 glyphname = m;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:03:59 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -10492,7 +10492,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:06:21 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -10531,30 +10531,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"914 806 OFFCURVE",
-"738 1028 OFFCURVE",
-"498 1028 CURVE",
-"350 1028 OFFCURVE",
-"222 942 OFFCURVE",
-"140 796 CURVE",
-"140 1000 LINE",
-"80 1000 LINE",
-"80 0 LINE",
-"140 0 LINE",
-"140 550 LINE",
-"140 780 OFFCURVE",
-"302 968 OFFCURVE",
-"498 968 CURVE",
-"696 968 OFFCURVE",
-"858 780 OFFCURVE",
-"858 550 CURVE",
-"858 0 LINE",
-"918 0 LINE",
-"918 554 LINE"
+"934 806 OFFCURVE",
+"758 1028 OFFCURVE",
+"518 1028 CURVE",
+"370 1028 OFFCURVE",
+"242 942 OFFCURVE",
+"160 796 CURVE",
+"160 1000 LINE",
+"100 1000 LINE",
+"100 0 LINE",
+"160 0 LINE",
+"160 550 LINE",
+"160 780 OFFCURVE",
+"322 968 OFFCURVE",
+"518 968 CURVE",
+"716 968 OFFCURVE",
+"878 780 OFFCURVE",
+"878 550 CURVE",
+"878 0 LINE",
+"938 0 LINE",
+"938 554 LINE"
 );
 }
 );
-width = 998;
+width = 1038;
 },
 {
 layerId = "F9B50E00-60B3-4906-8473-0A03A162A9E3";
@@ -10688,7 +10688,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:04:20 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -11718,7 +11718,7 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:04:26 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -12286,7 +12286,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:14:15 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -12315,7 +12315,7 @@ nodes = (
 );
 }
 );
-width = 802;
+width = 832;
 },
 {
 layerId = "9AF1F7D9-E035-453E-B2A8-46DE370997D0";
@@ -12344,7 +12344,7 @@ nodes = (
 );
 }
 );
-width = 652;
+width = 682;
 },
 {
 layerId = "F9B50E00-60B3-4906-8473-0A03A162A9E3";
@@ -20745,7 +20745,7 @@ unicode = 003B;
 },
 {
 glyphname = ellipsis;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:04:51 +0000";
 layers = (
 {
 components = (
@@ -22966,7 +22966,7 @@ unicode = 005D;
 },
 {
 glyphname = hyphen;
-lastChange = "2020-02-03 19:54:53 +0000";
+lastChange = "2020-02-03 20:05:02 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -35164,10 +35164,9 @@ idieresis = -40;
 "@MMK_R_H" = -20;
 "@MMK_R_f" = 40;
 "@MMK_R_h" = 30;
-"@MMK_R_hyphen" = -30;
-"@MMK_R_j" = -20;
-"@MMK_R_n" = 30;
-"@MMK_R_o" = -60;
+"@MMK_R_hyphen" = -20;
+"@MMK_R_j" = -50;
+"@MMK_R_o" = -80;
 "@MMK_R_p" = 30;
 "@MMK_R_period" = -50;
 "@MMK_R_t" = 50;
@@ -35647,11 +35646,9 @@ g = -70;
 "@MMK_R_W" = -30;
 "@MMK_R_f" = 40;
 "@MMK_R_h" = 30;
-"@MMK_R_hyphen" = -30;
+"@MMK_R_hyphen" = -20;
 "@MMK_R_j" = 20;
-"@MMK_R_n" = 40;
 "@MMK_R_o" = -60;
-"@MMK_R_p" = 30;
 "@MMK_R_period" = -50;
 "@MMK_R_t" = 50;
 "@MMK_R_u" = -20;
