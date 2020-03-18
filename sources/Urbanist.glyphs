@@ -36,7 +36,7 @@ O,
 "/oe",
 "íî",
 "í",
-sS
+MACHINE
 );
 copyright = "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)";
 customParameters = (
@@ -259,7 +259,7 @@ xHeight = 1000;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2020-02-18 22:12:51 +0000";
+lastChange = "2020-03-18 07:44:53 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -35015,6 +35015,7 @@ kerning = {
 "@MMK_R_y" = -200;
 };
 "@MMK_L_M" = {
+"@MMK_R_A" = -60;
 "@MMK_R_T" = -100;
 "@MMK_R_W" = -40;
 "@MMK_R_Y" = -40;
@@ -35392,6 +35393,7 @@ idieresis = 100;
 "@MMK_R_y" = -100;
 };
 "@MMK_L_M" = {
+"@MMK_R_A" = -120;
 "@MMK_R_O" = -60;
 "@MMK_R_T" = -100;
 "@MMK_R_U" = -100;
@@ -35902,6 +35904,7 @@ Q = {
 "@MMK_R_y" = -200;
 };
 "@MMK_L_M" = {
+"@MMK_R_A" = -60;
 "@MMK_R_T" = -100;
 "@MMK_R_W" = -40;
 "@MMK_R_Y" = -40;
@@ -36279,6 +36282,7 @@ idieresis = 100;
 "@MMK_R_y" = -100;
 };
 "@MMK_L_M" = {
+"@MMK_R_A" = -120;
 "@MMK_R_O" = -60;
 "@MMK_R_T" = -100;
 "@MMK_R_U" = -100;
