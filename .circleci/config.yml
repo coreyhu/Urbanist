@@ -15,7 +15,7 @@ jobs:
 
               command: |
                 cd fonts/static
-                fontbakery check-googlefonts -n -l WARN *.ttf
+                fontbakery check-googlefonts -n -l WARN -x com.google.fonts/check/ftxvalidator *.ttf
             
 workflows:
   launch:
