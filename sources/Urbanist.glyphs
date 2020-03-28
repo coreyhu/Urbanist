@@ -69,11 +69,11 @@ value = KERN;
 },
 {
 name = versionString;
-value = "Version 1.201; befe77262ef67d88f1d94aa3d2e49ef1327b4483";
+value = "Version 1.210; befe77262ef67d88f1d94aa3d2e49ef1327b4483";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = "Enforce Compatibility Check";
@@ -36713,5 +36713,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 201;
+versionMinor = 210;
 }

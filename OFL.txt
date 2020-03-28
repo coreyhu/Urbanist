@@ -1,4 +1,4 @@
-Copyright (c) 2020, Corey Hu (corey.huym@gmail.com)
+Copyright 2020 The Urbanist Project Authors (https://github.com/coreywho/urbanist)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
 
