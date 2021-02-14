@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave" format="2">
+	<advance width="1564"/>
+	<unicode hex="1E81"/>
+	<outline>
+		<component base="w"/>
+		<component base="grave" xOffset="330"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>w</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>w</string>
+		</dict>
+	</lib>
+</glyph>

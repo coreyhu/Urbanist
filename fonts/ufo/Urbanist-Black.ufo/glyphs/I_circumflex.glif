@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+	<advance width="622"/>
+	<unicode hex="00CE"/>
+	<outline>
+		<component base="I" xOffset="11"/>
+		<component base="uni0302" xOffset="-340" yOffset="334"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=I-90</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=I-90</string>
+		</dict>
+	</lib>
+</glyph>
