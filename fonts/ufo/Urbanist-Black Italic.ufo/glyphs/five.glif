@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="2">
+	<advance width="1172"/>
+	<unicode hex="0035"/>
+	<outline>
+		<contour>
+			<point x="505" y="-26" type="curve" smooth="yes"/>
+			<point x="768" y="-26"/>
+			<point x="1008" y="188"/>
+			<point x="1045" y="447" type="curve" smooth="yes"/>
+			<point x="1083" y="724"/>
+			<point x="906" y="946"/>
+			<point x="624" y="958" type="curve"/>
+			<point x="570" y="960" type="line"/>
+			<point x="620" y="1100" type="line"/>
+			<point x="1080" y="1100" type="line"/>
+			<point x="1122" y="1400" type="line"/>
+			<point x="415" y="1400" type="line"/>
+			<point x="155" y="660" type="line"/>
+			<point x="535" y="660" type="line" smooth="yes"/>
+			<point x="735" y="660"/>
+			<point x="763" y="578"/>
+			<point x="749" y="481" type="curve" smooth="yes"/>
+			<point x="733" y="366"/>
+			<point x="626" y="274"/>
+			<point x="513" y="274" type="curve" smooth="yes"/>
+			<point x="416" y="274"/>
+			<point x="349" y="350"/>
+			<point x="364" y="456" type="curve"/>
+			<point x="66" y="472" type="line"/>
+			<point x="29" y="208"/>
+			<point x="218" y="-26"/>
+		</contour>
+	</outline>
+</glyph>

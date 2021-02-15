@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="2">
+	<advance width="366"/>
+	<unicode hex="00CF"/>
+	<outline>
+		<component base="I" xOffset="3"/>
+		<component base="uni0308" xOffset="-390" yOffset="244"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=I-140</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=I-140</string>
+		</dict>
+	</lib>
+</glyph>

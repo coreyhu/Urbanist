@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="2">
+	<advance width="1124"/>
+	<unicode hex="00F0"/>
+	<outline>
+		<contour>
+			<point x="509" y="1070" type="line"/>
+			<point x="1007" y="1500" type="line"/>
+			<point x="969" y="1542" type="line"/>
+			<point x="470" y="1114" type="line"/>
+		</contour>
+		<component base="partialdiff"/>
+	</outline>
+</glyph>

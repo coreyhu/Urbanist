@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+	<advance width="299"/>
+	<unicode hex="00EC"/>
+	<outline>
+		<contour>
+			<point x="189" y="1000" type="line"/>
+			<point x="49" y="0" type="line"/>
+			<point x="109" y="0" type="line"/>
+			<point x="249" y="1000" type="line"/>
+		</contour>
+		<component base="grave" xOffset="-301"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=i-100</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>i</string>
+		</dict>
+	</lib>
+</glyph>
