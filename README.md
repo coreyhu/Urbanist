@@ -29,7 +29,7 @@ There are 7 predefined weights, each with an "Italic" (technically oblique) set.
 The variable font file utilizes 2 axes for tuning weight (0-150) and slant (0-1).
 
 ## Current Status
-Version 1.220 is the latest stable version and contains the following glyphs:
+Version 1.230 is the latest stable version and contains the following glyphs:
 
 AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcćçdðeéêëèfghiıíîïìjklmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳzªºμ0123456789₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹⁄½¼¾⅛⅜⅝⅞.,:;…!¡?¿·•*#/\(){}[]-–—_‚„“”‘’«»‹›‵"'    
 .null ¢¤$€£¥+−×÷=≠><≥≤±≈~¬^∅∞∫∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕◊@&¶§©®™°|¦†‡�ʼ̧̈̇̀́̂̊̃¨˙`´˝ˆˇ˘˚˜¯¸˛
@@ -37,7 +37,7 @@ AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛ
 ### <a href="https://github.com/coreywho/Urbanist/releases">Download the latest version here</a>
 
 ## Copyright
-Copyright (c) 2020, Corey Hu (corey.huym@gmail.com)
+Copyright (c) 2021, Corey Hu (corey.huym@gmail.com)
 
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
