@@ -10,7 +10,7 @@ fonts {
   filename: "Urbanist-Regular.ttf"
   post_script_name: "Urbanist-Regular"
   full_name: "Urbanist Regular"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -19,7 +19,7 @@ fonts {
   filename: "Urbanist-Italic.ttf"
   post_script_name: "Urbanist-Italic"
   full_name: "Urbanist Italic"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -28,7 +28,7 @@ fonts {
   filename: "Urbanist-SemiBold.ttf"
   post_script_name: "Urbanist-SemiBold"
   full_name: "Urbanist SemiBold"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -37,7 +37,7 @@ fonts {
   filename: "Urbanist-SemiBoldItalic.ttf"
   post_script_name: "Urbanist-SemiBoldItalic"
   full_name: "Urbanist SemiBold Italic"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -46,7 +46,7 @@ fonts {
   filename: "Urbanist-Bold.ttf"
   post_script_name: "Urbanist-Bold"
   full_name: "Urbanist Bold"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -55,7 +55,7 @@ fonts {
   filename: "Urbanist-BoldItalic.ttf"
   post_script_name: "Urbanist-BoldItalic"
   full_name: "Urbanist Bold Italic"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -64,7 +64,7 @@ fonts {
   filename: "Urbanist-ExtraBold.ttf"
   post_script_name: "Urbanist-ExtraBold"
   full_name: "Urbanist ExtraBold"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -73,7 +73,7 @@ fonts {
   filename: "Urbanist-ExtraBoldItalic.ttf"
   post_script_name: "Urbanist-ExtraBoldItalic"
   full_name: "Urbanist ExtraBold Italic"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -82,7 +82,7 @@ fonts {
   filename: "Urbanist-Black.ttf"
   post_script_name: "Urbanist-Black"
   full_name: "Urbanist Black"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -91,7 +91,7 @@ fonts {
   filename: "Urbanist-BlackItalic.ttf"
   post_script_name: "Urbanist-BlackItalic"
   full_name: "Urbanist Black Italic"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -100,7 +100,7 @@ fonts {
   filename: "Urbanist-Light.ttf"
   post_script_name: "Urbanist-Light"
   full_name: "Urbanist Light"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -109,7 +109,7 @@ fonts {
   filename: "Urbanist-LightItalic.ttf"
   post_script_name: "Urbanist-LightItalic"
   full_name: "Urbanist Light Italic"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -118,7 +118,7 @@ fonts {
   filename: "Urbanist-Thin.ttf"
   post_script_name: "Urbanist-Thin"
   full_name: "Urbanist Thin"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 fonts {
   name: "Urbanist"
@@ -127,7 +127,7 @@ fonts {
   filename: "Urbanist-ThinItalic.ttf"
   post_script_name: "Urbanist-ThinItalic"
   full_name: "Urbanist Thin Italic"
-  copyright: "Copyright 2020 The Urbanist Project Authors (github.com/coreywho)"
+  copyright: "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)"
 }
 subsets: "latin"
 subsets: "latin-ext"
