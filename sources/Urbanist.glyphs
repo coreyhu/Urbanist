@@ -36690,6 +36690,19 @@ language = dflt;
 value = Black;
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = Black;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Black";
 }
 );
 weightClass = 900;
@@ -36713,6 +36726,19 @@ language = dflt;
 value = ExtraBold;
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = ExtraBold;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist ExtraBold";
 }
 );
 weightClass = 800;
@@ -36738,6 +36764,28 @@ language = dflt;
 value = Bold;
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = Bold;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Bold";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = bold;
+}
+);
 }
 );
 weightClass = 700;
@@ -36761,6 +36809,19 @@ language = dflt;
 value = SemiBold;
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = SemiBold;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist SemiBold";
 }
 );
 weightClass = 600;
@@ -36782,6 +36843,28 @@ values = (
 {
 language = dflt;
 value = Regular;
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = Regular;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Regular";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = regular;
 }
 );
 }
@@ -36806,6 +36889,19 @@ language = dflt;
 value = Light;
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = Light;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Light";
 }
 );
 weightClass = 300;
@@ -36834,6 +36930,19 @@ language = dflt;
 value = Thin;
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = Thin;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Thin";
 }
 );
 weightClass = 100;
@@ -36858,6 +36967,19 @@ language = dflt;
 value = "Black Italic";
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "Black Italic";
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Black Italic";
 }
 );
 weightClass = 900;
@@ -36883,6 +37005,19 @@ language = dflt;
 value = "ExtraBold Italic";
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "ExtraBold Italic";
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist ExtraBold Italic";
 }
 );
 weightClass = 800;
@@ -36907,6 +37042,28 @@ values = (
 {
 language = dflt;
 value = "Bold Italic";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "Bold Italic";
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Bold Italic";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "bold italic";
 }
 );
 }
@@ -36934,6 +37091,19 @@ language = dflt;
 value = "SemiBold Italic";
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiBold Italic";
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist SemiBold Italic";
 }
 );
 weightClass = 600;
@@ -36957,6 +37127,28 @@ values = (
 {
 language = dflt;
 value = Italic;
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = Italic;
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Italic";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = italic;
 }
 );
 }
@@ -36983,6 +37175,19 @@ language = dflt;
 value = "Light Italic";
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "Light Italic";
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Light Italic";
 }
 );
 weightClass = 300;
@@ -37013,6 +37218,19 @@ language = dflt;
 value = "Thin Italic";
 }
 );
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "Thin Italic";
+}
+);
+},
+{
+key = postscriptFullName;
+value = "Urbanist Thin Italic";
 }
 );
 weightClass = 100;
@@ -38902,10 +39120,6 @@ language = dflt;
 value = "Urbanist is an open source low-contrast, geometric sans serif inspired by Modernist typography.";
 }
 );
-},
-{
-key = variationsPostScriptNamePrefix;
-value = "Urbanist-Black";
 },
 {
 key = postscriptFullName;
