@@ -47,14 +47,7 @@ TABULA VATER WASSER
 YAKUZA FABEL PAPST
 UNÐE H",
 abcdefghijklmnopqrstuvwxyz,
-"aâ",
-"ª",
-"ä",
-"à",
-"ã",
-"å",
-n,
-a
+Fo
 );
 axes = (
 {
@@ -105,6 +98,10 @@ wght = {
 900 = 900;
 };
 };
+},
+{
+name = "Variable Font Family Name";
+value = "Urbanist Variable";
 }
 );
 date = "2020-03-28 06:10:06 +0000";
@@ -36684,6 +36681,17 @@ instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 1;
 };
 name = Black;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Black;
+}
+);
+}
+);
 weightClass = 900;
 },
 {
@@ -36696,6 +36704,17 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.125;
 };
 name = ExtraBold;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = ExtraBold;
+}
+);
+}
+);
 weightClass = 800;
 },
 {
@@ -36710,6 +36729,17 @@ instanceInterpolations = {
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Bold;
+}
+);
+}
+);
 weightClass = 700;
 },
 {
@@ -36722,6 +36752,17 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.375;
 };
 name = SemiBold;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = SemiBold;
+}
+);
+}
+);
 weightClass = 600;
 },
 {
@@ -36734,6 +36775,17 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.625;
 };
 name = Regular;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Regular;
+}
+);
+}
+);
 },
 {
 axesValues = (
@@ -36745,6 +36797,17 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.75;
 };
 name = Light;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Light;
+}
+);
+}
+);
 weightClass = 300;
 },
 {
@@ -36762,6 +36825,17 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 1;
 };
 name = Thin;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Thin;
+}
+);
+}
+);
 weightClass = 100;
 },
 {
@@ -36775,6 +36849,17 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = "Black Italic";
+}
+);
+}
+);
 weightClass = 900;
 },
 {
@@ -36789,6 +36874,17 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = "ExtraBold Italic";
+}
+);
+}
+);
 weightClass = 800;
 },
 {
@@ -36804,6 +36900,17 @@ isBold = 1;
 isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = "Bold Italic";
+}
+);
+}
+);
 weightClass = 700;
 },
 {
@@ -36818,6 +36925,17 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = "SemiBold Italic";
+}
+);
+}
+);
 weightClass = 600;
 },
 {
@@ -36832,6 +36950,17 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Italic;
+}
+);
+}
+);
 },
 {
 axesValues = (
@@ -36845,6 +36974,17 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = "Light Italic";
+}
+);
+}
+);
 weightClass = 300;
 },
 {
@@ -36864,6 +37004,17 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = "Thin Italic";
+}
+);
+}
+);
 weightClass = 100;
 }
 );
@@ -38751,6 +38902,27 @@ language = dflt;
 value = "Urbanist is an open source low-contrast, geometric sans serif inspired by Modernist typography.";
 }
 );
+},
+{
+key = variationsPostScriptNamePrefix;
+value = "Urbanist-Black";
+},
+{
+key = postscriptFullName;
+value = Urbanist;
+},
+{
+key = compatibleFullNames;
+values = (
+{
+language = dflt;
+value = Urbanist;
+}
+);
+},
+{
+key = postscriptFontName;
+value = Urbanist;
 }
 );
 settings = {
