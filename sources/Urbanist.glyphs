@@ -10249,7 +10249,7 @@ unicode = 104;
 glyphname = i;
 kernLeft = i;
 kernRight = i;
-lastChange = "2021-05-12 23:35:40 +0000";
+lastChange = "2021-05-15 23:41:46 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -36703,7 +36703,7 @@ axesValues = (
 customParameters = (
 {
 name = weightClass;
-value = "New Value";
+value = 0;
 }
 );
 instanceInterpolations = {
@@ -36918,6 +36918,18 @@ weightClass = 600;
 },
 {
 axesValues = (
+500,
+0
+);
+instanceInterpolations = {
+"10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.5;
+"9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.5;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
 400,
 0
 );
@@ -37022,6 +37034,18 @@ value = Light;
 }
 );
 weightClass = 300;
+},
+{
+axesValues = (
+200,
+0
+);
+instanceInterpolations = {
+"10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.125;
+"9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.875;
+};
+name = UltraLight;
+weightClass = 200;
 },
 {
 axesValues = (
@@ -37283,6 +37307,20 @@ weightClass = 600;
 },
 {
 axesValues = (
+500,
+1
+);
+instanceInterpolations = {
+"7763577D-A4D2-4749-AE53-49BDF6EC3913" = 0.5;
+"DDA43255-513F-4353-BCA4-425ED8D2F935" = 0.5;
+};
+isItalic = 1;
+linkStyle = Medium;
+name = "Medium Italic";
+weightClass = 500;
+},
+{
+axesValues = (
 400,
 1
 );
@@ -37381,6 +37419,20 @@ value = "Light Italic";
 }
 );
 weightClass = 300;
+},
+{
+axesValues = (
+200,
+1
+);
+instanceInterpolations = {
+"7763577D-A4D2-4749-AE53-49BDF6EC3913" = 0.125;
+"DDA43255-513F-4353-BCA4-425ED8D2F935" = 0.875;
+};
+isItalic = 1;
+linkStyle = UltraLight;
+name = "UltraLight Italic";
+weightClass = 200;
 },
 {
 axesValues = (

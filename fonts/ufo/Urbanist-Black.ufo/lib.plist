@@ -8,6 +8,12 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>variableStyleName</string>
+			<key>value</key>
+			<string>Sans</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Enforce Compatibility Check</string>
 			<key>value</key>
 			<integer>1</integer>
@@ -29,6 +35,39 @@
 			<string>gasp Table</string>
 			<key>value</key>
 			<dict/>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Axis Mappings</string>
+			<key>value</key>
+			<dict>
+				<key>ital</key>
+				<dict>
+					<key>0</key>
+					<real>0.0</real>
+					<key>1</key>
+					<real>1.0</real>
+				</dict>
+				<key>wght</key>
+				<dict>
+					<key>100</key>
+					<real>100.0</real>
+					<key>900</key>
+					<real>900.0</real>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable Font Family Name</string>
+			<key>value</key>
+			<string>Urbanist Variable</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Has WWS Names</string>
+			<key>value</key>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.font.userData</key>
