@@ -26,8 +26,10 @@
 	<string>Corey Hu</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>coreyhu.com</string>
+	<key>openTypeNameUniqueID</key>
+	<string>Urbanist</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.230; befe77262ef67d88f1d94aa3d2e49ef1327b4483</string>
+	<string>Version 1.240</string>
 	<key>openTypeOS2Type</key>
 	<array/>
 	<key>openTypeOS2VendorID</key>
@@ -65,7 +67,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>230</integer>
+	<integer>240</integer>
 	<key>xHeight</key>
 	<integer>1000</integer>
 </dict>

@@ -16,7 +16,19 @@
 			<key>name</key>
 			<string>Variable Font Origin</string>
 			<key>value</key>
-			<string>B3D2A076-B51C-44C1-915C-935C098147A8</string>
+			<string>10BC12B3-5274-42E3-B5BC-F74F362F0DF4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Get Hints From Master</string>
+			<key>value</key>
+			<string>10BC12B3-5274-42E3-B5BC-F74F362F0DF4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>gasp Table</string>
+			<key>value</key>
+			<dict/>
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.font.userData</key>
@@ -45,7 +57,7 @@
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
 	<key>com.schriftgestaltung.weightValue</key>
-	<integer>150</integer>
+	<integer>900</integer>
 	<key>com.schriftgestaltung.widthValue</key>
 	<integer>1</integer>
 	<key>public.glyphOrder</key>

@@ -61,6 +61,10 @@ tag = ital;
 );
 customParameters = (
 {
+name = variableStyleName;
+value = Sans;
+},
+{
 name = fsType;
 value = (
 );
@@ -102,6 +106,25 @@ wght = {
 {
 name = "Variable Font Family Name";
 value = "Urbanist Variable";
+},
+{
+name = panose;
+value = (
+2,
+11,
+10,
+4,
+4,
+2,
+0,
+0,
+2,
+3
+);
+},
+{
+name = "Has WWS Names";
+value = 1;
 }
 );
 date = "2020-03-28 06:10:06 +0000";
@@ -36677,6 +36700,12 @@ axesValues = (
 900,
 0
 );
+customParameters = (
+{
+name = weightClass;
+value = "New Value";
+}
+);
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 1;
 };
@@ -36703,6 +36732,37 @@ value = Black;
 {
 key = postscriptFullName;
 value = "Urbanist Black";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist Black";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = Black;
+},
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = Urbanist;
+}
+);
+},
+{
+key = preferredSubfamilyNames;
+values = (
+{
+language = dflt;
+value = Black;
+}
+);
 }
 );
 weightClass = 900;
@@ -36739,6 +36799,19 @@ value = ExtraBold;
 {
 key = postscriptFullName;
 value = "Urbanist ExtraBold";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist ExtraBold";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = ExtraBold;
 }
 );
 weightClass = 800;
@@ -36783,9 +36856,13 @@ key = styleMapFamilyNames;
 values = (
 {
 language = dflt;
-value = bold;
+value = Urbanist;
 }
 );
+},
+{
+key = WWSSubfamilyName;
+value = Bold;
 }
 );
 weightClass = 700;
@@ -36822,6 +36899,19 @@ value = SemiBold;
 {
 key = postscriptFullName;
 value = "Urbanist SemiBold";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist SemiBold";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = SemiBold;
 }
 );
 weightClass = 600;
@@ -36830,6 +36920,16 @@ weightClass = 600;
 axesValues = (
 400,
 0
+);
+customParameters = (
+{
+name = "Elidable STAT Axis Value Name";
+value = wght;
+},
+{
+name = "Elidable STAT Axis Value Name";
+value = ital;
+}
 );
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.375;
@@ -36864,9 +36964,13 @@ key = styleMapFamilyNames;
 values = (
 {
 language = dflt;
-value = regular;
+value = Urbanist;
 }
 );
+},
+{
+key = WWSSubfamilyName;
+value = Regular;
 }
 );
 },
@@ -36902,6 +37006,19 @@ value = Light;
 {
 key = postscriptFullName;
 value = "Urbanist Light";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist Light";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = Light;
 }
 );
 weightClass = 300;
@@ -36943,6 +37060,19 @@ value = Thin;
 {
 key = postscriptFullName;
 value = "Urbanist Thin";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist Thin";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = Thin;
 }
 );
 weightClass = 100;
@@ -36980,6 +37110,19 @@ value = "Black Italic";
 {
 key = postscriptFullName;
 value = "Urbanist Black Italic";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist Black";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = "Black Italic";
 }
 );
 weightClass = 900;
@@ -37018,6 +37161,19 @@ value = "ExtraBold Italic";
 {
 key = postscriptFullName;
 value = "Urbanist ExtraBold Italic";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist ExtraBold";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = "ExtraBold Italic";
 }
 );
 weightClass = 800;
@@ -37063,9 +37219,13 @@ key = styleMapFamilyNames;
 values = (
 {
 language = dflt;
-value = "bold italic";
+value = Urbanist;
 }
 );
+},
+{
+key = WWSSubfamilyName;
+value = "Bold Italic";
 }
 );
 weightClass = 700;
@@ -37104,6 +37264,19 @@ value = "SemiBold Italic";
 {
 key = postscriptFullName;
 value = "Urbanist SemiBold Italic";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist SemiBold";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = "SemiBold Italic";
 }
 );
 weightClass = 600;
@@ -37148,9 +37321,13 @@ key = styleMapFamilyNames;
 values = (
 {
 language = dflt;
-value = italic;
+value = Urbanist;
 }
 );
+},
+{
+key = WWSSubfamilyName;
+value = Italic;
 }
 );
 },
@@ -37188,6 +37365,19 @@ value = "Light Italic";
 {
 key = postscriptFullName;
 value = "Urbanist Light Italic";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist Light";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = "Light Italic";
 }
 );
 weightClass = 300;
@@ -37231,6 +37421,19 @@ value = "Thin Italic";
 {
 key = postscriptFullName;
 value = "Urbanist Thin Italic";
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = "Urbanist Thin";
+}
+);
+},
+{
+key = WWSSubfamilyName;
+value = "Thin Italic";
 }
 );
 weightClass = 100;
@@ -39048,7 +39251,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2021 The Urbanist Project Authors (github.com/coreywho)";
+value = "Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)";
 }
 );
 },
@@ -39063,7 +39266,7 @@ value = "Corey Hu";
 },
 {
 key = designerURL;
-value = github.com/coreywho;
+value = coreyhu.com;
 },
 {
 key = manufacturers;
@@ -39100,10 +39303,6 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 },
 {
-key = uniqueID;
-value = Urbanist;
-},
-{
 key = familyNames;
 values = (
 {
@@ -39122,10 +39321,6 @@ value = "Urbanist is an open source low-contrast, geometric sans serif inspired 
 );
 },
 {
-key = postscriptFullName;
-value = Urbanist;
-},
-{
 key = compatibleFullNames;
 values = (
 {
@@ -39135,7 +39330,7 @@ value = Urbanist;
 );
 },
 {
-key = postscriptFontName;
+key = WWSFamilyName;
 value = Urbanist;
 }
 );
