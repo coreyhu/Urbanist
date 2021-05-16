@@ -57,18 +57,6 @@
 				</dict>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Variable Font Family Name</string>
-			<key>value</key>
-			<string>Urbanist Variable</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Has WWS Names</string>
-			<key>value</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>com.schriftgestaltung.font.userData</key>
 	<dict>

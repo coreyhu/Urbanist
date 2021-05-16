@@ -104,10 +104,6 @@ wght = {
 };
 },
 {
-name = "Variable Font Family Name";
-value = "Urbanist Variable";
-},
-{
 name = panose;
 value = (
 2,
@@ -121,10 +117,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "Has WWS Names";
-value = 1;
 }
 );
 date = "2020-03-28 06:10:06 +0000";
@@ -36702,8 +36694,17 @@ axesValues = (
 );
 customParameters = (
 {
-name = weightClass;
-value = 0;
+name = "Axis Mappings";
+value = {
+ital = {
+0 = 0;
+1 = 1;
+};
+wght = {
+100 = 100;
+900 = 900;
+};
+};
 }
 );
 instanceInterpolations = {
@@ -36712,50 +36713,6 @@ instanceInterpolations = {
 name = Black;
 properties = (
 {
-key = styleNames;
-values = (
-{
-language = dflt;
-value = Black;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = Black;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Black";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist Black";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Black;
-},
-{
-key = preferredFamilyNames;
-values = (
-{
-language = dflt;
-value = Urbanist;
-}
-);
-},
-{
 key = preferredSubfamilyNames;
 values = (
 {
@@ -36763,8 +36720,29 @@ language = dflt;
 value = Black;
 }
 );
+},
+{
+key = styleMapStyleNames;
+values = (
+{
+language = dflt;
+value = Regular;
 }
 );
+}
+);
+type = variable;
+weightClass = 900;
+},
+{
+axesValues = (
+900,
+0
+);
+instanceInterpolations = {
+"10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 1;
+};
+name = Black;
 weightClass = 900;
 },
 {
@@ -36777,43 +36755,6 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.125;
 };
 name = ExtraBold;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = ExtraBold;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = ExtraBold;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist ExtraBold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist ExtraBold";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = ExtraBold;
-}
-);
 weightClass = 800;
 },
 {
@@ -36828,43 +36769,6 @@ instanceInterpolations = {
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = Bold;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = Bold;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Bold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = Urbanist;
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Bold;
-}
-);
 weightClass = 700;
 },
 {
@@ -36877,43 +36781,6 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.375;
 };
 name = SemiBold;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = SemiBold;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = SemiBold;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist SemiBold";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist SemiBold";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = SemiBold;
-}
-);
 weightClass = 600;
 },
 {
@@ -36933,58 +36800,11 @@ axesValues = (
 400,
 0
 );
-customParameters = (
-{
-name = "Elidable STAT Axis Value Name";
-value = wght;
-},
-{
-name = "Elidable STAT Axis Value Name";
-value = ital;
-}
-);
 instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.375;
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.625;
 };
 name = Regular;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = Regular;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = Regular;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Regular";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = Urbanist;
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Regular;
-}
-);
 },
 {
 axesValues = (
@@ -36996,43 +36816,6 @@ instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.75;
 };
 name = Light;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = Light;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = Light;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Light";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist Light";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Light;
-}
-);
 weightClass = 300;
 },
 {
@@ -37044,7 +36827,7 @@ instanceInterpolations = {
 "10BC12B3-5274-42E3-B5BC-F74F362F0DF4" = 0.125;
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 0.875;
 };
-name = UltraLight;
+name = ExtraLight;
 weightClass = 200;
 },
 {
@@ -37052,53 +36835,10 @@ axesValues = (
 100,
 0
 );
-customParameters = (
-{
-name = "Grid Spacing";
-value = 0;
-}
-);
 instanceInterpolations = {
 "9AF1F7D9-E035-453E-B2A8-46DE370997D0" = 1;
 };
 name = Thin;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = Thin;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = Thin;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Thin";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist Thin";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Thin;
-}
-);
 weightClass = 100;
 },
 {
@@ -37112,43 +36852,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = "Black Italic";
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = "Black Italic";
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Black Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist Black";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = "Black Italic";
-}
-);
 weightClass = 900;
 },
 {
@@ -37163,43 +36866,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = "ExtraBold Italic";
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = "ExtraBold Italic";
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist ExtraBold Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist ExtraBold";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = "ExtraBold Italic";
-}
-);
 weightClass = 800;
 },
 {
@@ -37215,43 +36881,6 @@ isBold = 1;
 isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = "Bold Italic";
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = "Bold Italic";
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Bold Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = Urbanist;
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = "Bold Italic";
-}
-);
 weightClass = 700;
 },
 {
@@ -37266,43 +36895,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = "SemiBold Italic";
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = "SemiBold Italic";
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist SemiBold Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist SemiBold";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = "SemiBold Italic";
-}
-);
 weightClass = 600;
 },
 {
@@ -37331,43 +36923,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = Italic;
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = Italic;
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = Urbanist;
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = Italic;
-}
-);
 },
 {
 axesValues = (
@@ -37381,43 +36936,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = "Light Italic";
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = "Light Italic";
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Light Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist Light";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = "Light Italic";
-}
-);
 weightClass = 300;
 },
 {
@@ -37430,8 +36948,8 @@ instanceInterpolations = {
 "DDA43255-513F-4353-BCA4-425ED8D2F935" = 0.875;
 };
 isItalic = 1;
-linkStyle = UltraLight;
-name = "UltraLight Italic";
+linkStyle = ExtraLight;
+name = "ExtraLight Italic";
 weightClass = 200;
 },
 {
@@ -37439,55 +36957,12 @@ axesValues = (
 100,
 1
 );
-customParameters = (
-{
-name = "Grid Spacing";
-value = 0;
-}
-);
 instanceInterpolations = {
 "DDA43255-513F-4353-BCA4-425ED8D2F935" = 1;
 };
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
-properties = (
-{
-key = styleNames;
-values = (
-{
-language = dflt;
-value = "Thin Italic";
-}
-);
-},
-{
-key = variableStyleNames;
-values = (
-{
-language = dflt;
-value = "Thin Italic";
-}
-);
-},
-{
-key = postscriptFullName;
-value = "Urbanist Thin Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Urbanist Thin";
-}
-);
-},
-{
-key = WWSSubfamilyName;
-value = "Thin Italic";
-}
-);
 weightClass = 100;
 }
 );
@@ -39355,15 +38830,6 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 },
 {
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Urbanist;
-}
-);
-},
-{
 key = descriptions;
 values = (
 {
@@ -39371,19 +38837,6 @@ language = dflt;
 value = "Urbanist is an open source low-contrast, geometric sans serif inspired by Modernist typography.";
 }
 );
-},
-{
-key = compatibleFullNames;
-values = (
-{
-language = dflt;
-value = Urbanist;
-}
-);
-},
-{
-key = WWSFamilyName;
-value = Urbanist;
 }
 );
 settings = {
