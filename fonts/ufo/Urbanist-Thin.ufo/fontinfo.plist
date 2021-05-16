@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>1400</integer>
 	<key>copyright</key>
-	<string>Copyright 2021 The Urbanist Project Authors (github.com/coreywho)</string>
+	<string>Copyright 2021 The Urbanist Project Authors (github.com/coreyhu)</string>
 	<key>descender</key>
 	<integer>-500</integer>
 	<key>familyName</key>
@@ -17,7 +17,7 @@
 	<key>openTypeNameDesigner</key>
 	<string>Corey Hu</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>github.com/coreywho</string>
+	<string>coreyhu.com</string>
 	<key>openTypeNameLicense</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
@@ -27,7 +27,20 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>coreyhu.com</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.230; befe77262ef67d88f1d94aa3d2e49ef1327b4483</string>
+	<string>Version 1.240</string>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>11</integer>
+		<integer>10</integer>
+		<integer>4</integer>
+		<integer>4</integer>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+	</array>
 	<key>openTypeOS2Type</key>
 	<array/>
 	<key>openTypeOS2VendorID</key>
@@ -65,7 +78,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>230</integer>
+	<integer>240</integer>
 	<key>xHeight</key>
 	<integer>1000</integer>
 </dict>
