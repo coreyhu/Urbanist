@@ -17,10 +17,12 @@ Urbanist is an open source low-contrast, geometric sans serif inspired by Modern
 </p>
 
 
-There are 7 predefined weights, each with an "Italic" (technically oblique) set. 
+There are 9 predefined weights, each with an "Italic" (technically oblique) set. 
  - Thin
+ - ExtraLight
  - Light
  - Regular
+ - Medium
  - SemiBold
  - Bold
  - ExtraBold
@@ -29,7 +31,7 @@ There are 7 predefined weights, each with an "Italic" (technically oblique) set.
 The variable font file utilizes 2 axes for tuning weight (0-150) and slant (0-1).
 
 ## Current Status
-Version 1.230 is the latest stable version and contains the following glyphs:
+Version 1.240 is the latest stable version and contains the following glyphs:
 
 AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcćçdðeéêëèfghiıíîïìjklmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳzªºμ0123456789₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹⁄½¼¾⅛⅜⅝⅞.,:;…!¡?¿·•*#/\(){}[]-–—_‚„“”‘’«»‹›‵"'    
 .null ¢¤$€£¥+−×÷=≠><≥≤±≈~¬^∅∞∫∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕◊@&¶§©®™°|¦†‡�ʼ̧̈̇̀́̂̊̃¨˙`´˝ˆˇ˘˚˜¯¸˛
