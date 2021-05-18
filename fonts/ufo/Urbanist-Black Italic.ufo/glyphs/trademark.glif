@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="trademark" format="2">
-	<advance width="2984"/>
+	<advance width="2856"/>
 	<unicode hex="2122"/>
 	<outline>
 		<component base="T"/>
-		<component base="M" xOffset="1060"/>
+		<component base="M" xOffset="932"/>
 	</outline>
 	<lib>
 		<dict>
