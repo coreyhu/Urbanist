@@ -27,7 +27,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>coreyhu.com</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.240</string>
+	<string>Version 1.241</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -78,7 +78,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>240</integer>
+	<integer>241</integer>
 	<key>xHeight</key>
 	<integer>1000</integer>
 </dict>
