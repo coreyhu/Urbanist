@@ -46,7 +46,7 @@ It is recommended to export using gftools builder.
 ```
 cd ./source
 pip install gftools
-gftools builder Urbanist.glyphs
+gftools builder config.yaml
 cd ../scripts
 python postprocess.py
 ```
