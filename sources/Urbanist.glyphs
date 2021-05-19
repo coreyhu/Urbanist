@@ -57,7 +57,7 @@ abcdefghijklmnopqrstuvwxyz,
 "ÎÏÌ",
 "Ð",
 "Æ",
-M
+AM
 );
 axes = (
 {
@@ -388,7 +388,7 @@ over = -31;
 pos = -500;
 },
 {
-pos = -8;
+pos = 8;
 }
 );
 name = "Thin Italic";
@@ -430,7 +430,7 @@ over = -31;
 pos = -500;
 },
 {
-pos = -8;
+pos = 8;
 }
 );
 name = Italic;
@@ -472,7 +472,7 @@ over = -31;
 pos = -500;
 },
 {
-pos = -8;
+pos = 8;
 }
 );
 name = "Black Italic";
