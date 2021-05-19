@@ -56117,7 +56117,7 @@ value = KERN;
 },
 {
 key = versionString;
-value = "Version 1.242";
+value = "Version 1.250";
 },
 {
 key = licenses;
@@ -56162,5 +56162,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 242;
+versionMinor = 250;
 }
