@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneinferior" format="2">
+  <advance width="449.75"/>
+  <unicode hex="2081"/>
+  <outline>
+    <contour>
+      <point x="161.6" y="0.0" type="line"/>
+      <point x="305.6" y="0.0" type="line"/>
+      <point x="305.6" y="631.0" type="line"/>
+      <point x="116.4" y="631.0" type="line"/>
+      <point x="96.0" y="487.0" type="line"/>
+      <point x="161.6" y="487.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

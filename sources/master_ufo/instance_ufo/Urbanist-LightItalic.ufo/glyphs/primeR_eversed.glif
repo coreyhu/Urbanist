@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primeReversed" format="2">
+  <advance width="422.0"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="275.6666666666667" y="878.0" type="line"/>
+      <point x="355.0" y="878.0" type="line"/>
+      <point x="366.0" y="1400.0" type="line"/>
+      <point x="247.66666666666666" y="1400.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

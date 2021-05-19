@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d" format="2">
+  <advance width="1222.0"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="1057.6" y="1500.0" type="line"/>
+      <point x="961.4" y="834.0" type="line"/>
+      <point x="910.2" y="947.1999999999999"/>
+      <point x="806.4000000000001" y="1026.8"/>
+      <point x="650.2" y="1026.8" type="curve"/>
+      <point x="365.2" y="1026.8"/>
+      <point x="101.2" y="796.4"/>
+      <point x="61.2" y="509.8" type="curve"/>
+      <point x="19.2" y="214.8"/>
+      <point x="226.8" y="-26.0"/>
+      <point x="521.8" y="-26.0" type="curve"/>
+      <point x="668.0" y="-26.0"/>
+      <point x="789.4" y="46.4"/>
+      <point x="871.8" y="158.79999999999998" type="curve"/>
+      <point x="846.5999999999999" y="0.0" type="line"/>
+      <point x="1026.8" y="0.0" type="line"/>
+      <point x="1237.8" y="1500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="528.8" y="148.4" type="curve"/>
+      <point x="347.59999999999997" y="148.4"/>
+      <point x="215.2" y="298.4"/>
+      <point x="242.8" y="490.2" type="curve"/>
+      <point x="270.6" y="690.4000000000001"/>
+      <point x="453.2" y="853.2"/>
+      <point x="647.1999999999999" y="853.2" type="curve"/>
+      <point x="831.2" y="853.2"/>
+      <point x="930.8" y="702.4"/>
+      <point x="903.2" y="509.8" type="curve"/>
+      <point x="875.4" y="311.2"/>
+      <point x="724.8" y="148.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

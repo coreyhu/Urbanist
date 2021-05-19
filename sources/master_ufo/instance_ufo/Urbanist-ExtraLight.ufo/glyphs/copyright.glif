@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="copyright" format="2">
+  <advance width="1753.75"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="876.6666666666666" y="-167.66666666666669" type="curve" smooth="yes"/>
+      <point x="1317.0" y="-167.66666666666669"/>
+      <point x="1673.6666666666667" y="189.0"/>
+      <point x="1673.6666666666667" y="629.3333333333334" type="curve" smooth="yes"/>
+      <point x="1673.6666666666667" y="1069.6666666666667"/>
+      <point x="1317.0" y="1426.0"/>
+      <point x="876.6666666666666" y="1426.0" type="curve" smooth="yes"/>
+      <point x="436.6666666666667" y="1426.0"/>
+      <point x="80.0" y="1069.6666666666667"/>
+      <point x="80.0" y="629.3333333333334" type="curve" smooth="yes"/>
+      <point x="80.0" y="189.0"/>
+      <point x="436.6666666666667" y="-167.66666666666669"/>
+    </contour>
+    <contour>
+      <point x="876.6666666666666" y="-77.66666666666667" type="curve" smooth="yes"/>
+      <point x="493.3333333333333" y="-77.66666666666667"/>
+      <point x="170.0" y="231.66666666666666"/>
+      <point x="170.0" y="629.3333333333334" type="curve" smooth="yes"/>
+      <point x="170.0" y="1016.3333333333334"/>
+      <point x="486.0" y="1332.6666666666667"/>
+      <point x="876.6666666666666" y="1336.0" type="curve" smooth="yes"/>
+      <point x="1261.6666666666667" y="1339.6666666666667"/>
+      <point x="1583.6666666666667" y="1022.0"/>
+      <point x="1583.6666666666667" y="629.3333333333334" type="curve" smooth="yes"/>
+      <point x="1583.6666666666667" y="245.66666666666666"/>
+      <point x="1272.6666666666667" y="-77.66666666666667"/>
+    </contour>
+    <component base="c" xOffset="327.3333333333333" yOffset="129.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

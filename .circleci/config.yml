@@ -6,17 +6,21 @@ jobs:
       - image: circleci/python:3.7
 
     steps:
-          - checkout
-          - run:
-              name: install fontbakery
-              command: pip install fontbakery
-          - run:
-              name: run fontbakery tests
+      - checkout
+      - run:
+          name: install fontbakery
+          command: pip install fontbakery
+      - run:
+          name: install ttfautohint
+          command: |
+            sudo apt-get update
+            sudo apt-get install ttfautohint
+      - run:
+          name: run fontbakery tests
+          command: |
+            cd fonts/ttf
+            fontbakery check-googlefonts -n -l WARN -x com.google.fonts/check/ftxvalidator *.ttf
 
-              command: |
-                cd fonts/static
-                fontbakery check-googlefonts -n -l WARN -x com.google.fonts/check/ftxvalidator *.ttf
-            
 workflows:
   launch:
     jobs:

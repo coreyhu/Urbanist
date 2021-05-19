@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsuperior" format="2">
+  <advance width="706"/>
+  <unicode hex="2076"/>
+  <outline>
+    <contour>
+      <point x="379" y="798" type="curve" smooth="yes"/>
+      <point x="499" y="798"/>
+      <point x="615" y="880"/>
+      <point x="633" y="1010" type="curve" smooth="yes"/>
+      <point x="652" y="1142"/>
+      <point x="556" y="1253"/>
+      <point x="416" y="1244" type="curve"/>
+      <point x="567" y="1446" type="line"/>
+      <point x="438" y="1449" type="line"/>
+      <point x="214" y="1141"/>
+      <point x="180" y="1100"/>
+      <point x="170" y="1027" type="curve" smooth="yes"/>
+      <point x="152" y="898"/>
+      <point x="241" y="798"/>
+    </contour>
+    <contour>
+      <point x="377" y="902" type="curve" smooth="yes"/>
+      <point x="316" y="902"/>
+      <point x="269" y="939"/>
+      <point x="274" y="1004" type="curve" smooth="yes"/>
+      <point x="282" y="1077"/>
+      <point x="349" y="1143"/>
+      <point x="428" y="1143" type="curve" smooth="yes"/>
+      <point x="484" y="1143"/>
+      <point x="535" y="1101"/>
+      <point x="529" y="1033" type="curve" smooth="yes"/>
+      <point x="522" y="958"/>
+      <point x="452" y="902"/>
+    </contour>
+  </outline>
+</glyph>

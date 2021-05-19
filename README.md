@@ -16,30 +16,47 @@ Urbanist is an open source low-contrast, geometric sans serif inspired by Modern
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/styles.png" width=80%>
 </p>
 
+There are 9 predefined weights, each with an italic set.
 
-There are 9 predefined weights, each with an "Italic" (technically oblique) set. 
- - Thin
- - ExtraLight
- - Light
- - Regular
- - Medium
- - SemiBold
- - Bold
- - ExtraBold
- - Black
+- Thin
+- ExtraLight
+- Light
+- Regular
+- Medium
+- SemiBold
+- Bold
+- ExtraBold
+- Black
 
-The variable font file utilizes 2 axes for tuning weight (0-150) and slant (0-1).
+The variable font file utilizes 2 axes for tuning weight (100-900) and italic (0-1).
 
 ## Current Status
-Version 1.241 is the latest stable version and contains the following glyphs:
 
-AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcćçdðeéêëèfghiıíîïìjklmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳzªºμ0123456789₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹⁄½¼¾⅛⅜⅝⅞.,:;…!¡?¿·•*#/\(){}[]-–—_‚„“”‘’«»‹›‵"'    
+Version 1.250 is the latest stable version and contains the following glyphs:
+
+AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcćçdðeéêëèfghiıíîïìjklmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳzªºμ0123456789₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹⁄½¼¾⅛⅜⅝⅞.,:;…!¡?¿·•\*#/\(){}[]-–—\_‚„“”‘’«»‹›‵"'    
 .null ¢¤$€£¥+−×÷=≠><≥≤±≈~¬^∅∞∫∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕◊@&¶§©®™°|¦†‡�ʼ̧̈̇̀́̂̊̃¨˙`´˝ˆˇ˘˚˜¯¸˛
 
 ### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest version here</a>
 
+## Build from source
+
+It is recommended to export using gftools builder.
+
+```
+cd ./source
+pip install gftools
+gftools builder config.yaml
+cd ../scripts
+python postprocess.py
+```
+
+If you're unable to run `gftools builder config.yaml`, glyphsLib currently doesn't support Glyphs3 .glyphs files. You can try using [this glyphsLib fork](https://github.com/simoncozens/glyphsLib/tree/glyphs3-try3) instead.
+
 ## Copyright
+
 Copyright (c) 2021, Corey Hu (corey.huym@gmail.com)
 
 ## License
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL

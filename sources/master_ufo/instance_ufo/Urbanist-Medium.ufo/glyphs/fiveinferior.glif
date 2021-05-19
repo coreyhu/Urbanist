@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveinferior" format="2">
+  <advance width="688.0"/>
+  <unicode hex="2085"/>
+  <outline>
+    <contour>
+      <point x="313.2" y="-31.0" type="curve"/>
+      <point x="440.4" y="-31.0"/>
+      <point x="544.4" y="64.4"/>
+      <point x="544.4" y="192.4" type="curve"/>
+      <point x="544.4" y="319.4"/>
+      <point x="454.8" y="420.0"/>
+      <point x="315.6" y="420.0" type="curve"/>
+      <point x="255.6" y="416.8" type="line"/>
+      <point x="261.2" y="515.4" type="line"/>
+      <point x="497.2" y="515.4" type="line"/>
+      <point x="497.2" y="623.8" type="line"/>
+      <point x="152.2" y="623.8" type="line"/>
+      <point x="120.2" y="283.2" type="line"/>
+      <point x="313.2" y="300.0" type="line"/>
+      <point x="374.0" y="300.0"/>
+      <point x="424.4" y="252.2"/>
+      <point x="424.4" y="192.4" type="curve"/>
+      <point x="424.4" y="132.0"/>
+      <point x="374.0" y="89.0"/>
+      <point x="313.2" y="89.0" type="curve"/>
+      <point x="253.4" y="89.0"/>
+      <point x="204.0" y="132.0"/>
+      <point x="204.0" y="192.4" type="curve"/>
+      <point x="84.0" y="192.4" type="line"/>
+      <point x="84.0" y="64.4"/>
+      <point x="187.2" y="-31.0"/>
+    </contour>
+  </outline>
+</glyph>
