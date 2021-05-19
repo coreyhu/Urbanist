@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+    <axis tag="ital" name="Italic" minimum="0" maximum="1" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Urbanist-Thin.ufo" name="Urbanist Thin" familyname="Urbanist" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Urbanist-Regular.ufo" name="Urbanist Regular" familyname="Urbanist" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Urbanist-Black.ufo" name="Urbanist Black" familyname="Urbanist" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Urbanist-ThinItalic.ufo" name="Urbanist Thin Italic" familyname="Urbanist" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Urbanist-Italic.ufo" name="Urbanist Italic" familyname="Urbanist" stylename="Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Urbanist-BlackItalic.ufo" name="Urbanist Black Italic" familyname="Urbanist" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Urbanist Black" familyname="Urbanist" stylename="Black" filename="instance_ufo/Urbanist-Black.ufo" stylemapfamilyname="Urbanist Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist ExtraBold" familyname="Urbanist" stylename="ExtraBold" filename="instance_ufo/Urbanist-ExtraBold.ufo" stylemapfamilyname="Urbanist ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist Bold" familyname="Urbanist" stylename="Bold" filename="instance_ufo/Urbanist-Bold.ufo" stylemapfamilyname="Urbanist" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist SemiBold" familyname="Urbanist" stylename="SemiBold" filename="instance_ufo/Urbanist-SemiBold.ufo" stylemapfamilyname="Urbanist SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist Medium" familyname="Urbanist" stylename="Medium" filename="instance_ufo/Urbanist-Medium.ufo" stylemapfamilyname="Urbanist Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist Regular" familyname="Urbanist" stylename="Regular" filename="instance_ufo/Urbanist-Regular.ufo" stylemapfamilyname="Urbanist" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Elidable STAT Axis Value Name</string>
+              <string>wght</string>
+            </array>
+            <array>
+              <string>Elidable STAT Axis Value Name</string>
+              <string>ital</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist Light" familyname="Urbanist" stylename="Light" filename="instance_ufo/Urbanist-Light.ufo" stylemapfamilyname="Urbanist Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist ExtraLight" familyname="Urbanist" stylename="ExtraLight" filename="instance_ufo/Urbanist-ExtraLight.ufo" stylemapfamilyname="Urbanist ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist Thin" familyname="Urbanist" stylename="Thin" filename="instance_ufo/Urbanist-Thin.ufo" stylemapfamilyname="Urbanist Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>wght</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist Black Italic" familyname="Urbanist" stylename="Black Italic" filename="instance_ufo/Urbanist-BlackItalic.ufo" stylemapfamilyname="Urbanist Black" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist ExtraBold Italic" familyname="Urbanist" stylename="ExtraBold Italic" filename="instance_ufo/Urbanist-ExtraBoldItalic.ufo" stylemapfamilyname="Urbanist ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Bold Italic" familyname="Urbanist" stylename="Bold Italic" filename="instance_ufo/Urbanist-BoldItalic.ufo" stylemapfamilyname="Urbanist" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist SemiBold Italic" familyname="Urbanist" stylename="SemiBold Italic" filename="instance_ufo/Urbanist-SemiBoldItalic.ufo" stylemapfamilyname="Urbanist SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Medium Italic" familyname="Urbanist" stylename="Medium Italic" filename="instance_ufo/Urbanist-MediumItalic.ufo" stylemapfamilyname="Urbanist Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Italic" familyname="Urbanist" stylename="Italic" filename="instance_ufo/Urbanist-Italic.ufo" stylemapfamilyname="Urbanist" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Style Name as STAT entry</string>
+              <string>ital</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Urbanist Light Italic" familyname="Urbanist" stylename="Light Italic" filename="instance_ufo/Urbanist-LightItalic.ufo" stylemapfamilyname="Urbanist Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist ExtraLight Italic" familyname="Urbanist" stylename="ExtraLight Italic" filename="instance_ufo/Urbanist-ExtraLightItalic.ufo" stylemapfamilyname="Urbanist ExtraLight" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Urbanist Thin Italic" familyname="Urbanist" stylename="Thin Italic" filename="instance_ufo/Urbanist-ThinItalic.ufo" stylemapfamilyname="Urbanist Thin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Italic" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>10BC12B3-5274-42E3-B5BC-F74F362F0DF4</key>
+        <dict/>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

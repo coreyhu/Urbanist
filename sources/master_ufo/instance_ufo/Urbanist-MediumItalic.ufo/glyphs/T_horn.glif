@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1070.0"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="0.0" type="line"/>
+      <point x="230.0" y="0.0" type="line"/>
+      <point x="270.4" y="286.4" type="line"/>
+      <point x="563.2" y="286.4" type="line" smooth="yes"/>
+      <point x="781.2" y="286.4"/>
+      <point x="985.1999999999999" y="462.4"/>
+      <point x="1017.1999999999999" y="690.2" type="curve" smooth="yes"/>
+      <point x="1050.4" y="924.8"/>
+      <point x="894.8000000000001" y="1114.4"/>
+      <point x="669.6" y="1114.4" type="curve" smooth="yes"/>
+      <point x="386.4" y="1114.4" type="line"/>
+      <point x="426.0" y="1400.0" type="line"/>
+      <point x="246.0" y="1400.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="294.8" y="466.4" type="line"/>
+      <point x="364.0" y="956.0" type="line"/>
+      <point x="640.5999999999999" y="956.0" type="line" smooth="yes"/>
+      <point x="771.8" y="956.0"/>
+      <point x="860.0" y="855.1999999999999"/>
+      <point x="841.1999999999999" y="721.4" type="curve" smooth="yes"/>
+      <point x="821.0" y="576.8"/>
+      <point x="692.8" y="466.4"/>
+      <point x="561.5999999999999" y="466.4" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="970"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="800" y="0" type="line"/>
+      <point x="808" y="60" type="line"/>
+      <point x="118" y="60" type="line"/>
+      <point x="306" y="1400" type="line"/>
+      <point x="246" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twoinferior" format="2">
+  <advance width="677.125"/>
+  <unicode hex="2082"/>
+  <outline>
+    <contour>
+      <point x="96.0" y="0.0" type="line"/>
+      <point x="531.6666666666666" y="0.0" type="line"/>
+      <point x="531.6666666666666" y="84.0" type="line"/>
+      <point x="241.0" y="84.0" type="line"/>
+      <point x="359.6666666666667" y="167.0"/>
+      <point x="533.0" y="324.6666666666667"/>
+      <point x="533.0" y="442.6666666666667" type="curve"/>
+      <point x="533.0" y="562.6666666666666"/>
+      <point x="435.6666666666667" y="651.6666666666666"/>
+      <point x="315.6666666666667" y="651.6666666666666" type="curve"/>
+      <point x="193.66666666666666" y="651.6666666666666"/>
+      <point x="96.0" y="562.6666666666666"/>
+      <point x="96.0" y="442.6666666666667" type="curve"/>
+      <point x="180.0" y="442.6666666666667" type="line"/>
+      <point x="180.0" y="518.0"/>
+      <point x="241.0" y="567.6666666666666"/>
+      <point x="315.6666666666667" y="567.6666666666666" type="curve"/>
+      <point x="390.0" y="567.6666666666666"/>
+      <point x="449.0" y="518.0"/>
+      <point x="449.0" y="442.6666666666667" type="curve"/>
+      <point x="440.0" y="324.6666666666667"/>
+      <point x="196.0" y="150.0"/>
+      <point x="96.0" y="83.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

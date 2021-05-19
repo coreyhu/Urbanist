@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <advance width="1125.75"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="517.8000000000001" y="1024.6" type="line"/>
+      <point x="1009.5999999999999" y="1456.2" type="line"/>
+      <point x="894.6" y="1585.8" type="line"/>
+      <point x="400.8" y="1154.2" type="line"/>
+    </contour>
+    <component base="partialdiff"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>partialdiff</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="copyright" format="2">
+  <advance width="1902.5"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="849.6" y="-315.2" type="curve" smooth="yes"/>
+      <point x="1324.4" y="-315.2"/>
+      <point x="1761.2" y="67.6"/>
+      <point x="1828.2" y="542.2" type="curve" smooth="yes"/>
+      <point x="1897.4" y="1032.0"/>
+      <point x="1555.6" y="1426.0"/>
+      <point x="1067.0" y="1426.0" type="curve" smooth="yes"/>
+      <point x="592.4000000000001" y="1426.0"/>
+      <point x="156.6" y="1043.6000000000001"/>
+      <point x="89.6" y="569.0" type="curve" smooth="yes"/>
+      <point x="21.4" y="80.4"/>
+      <point x="361.59999999999997" y="-315.2"/>
+    </contour>
+    <contour>
+      <point x="856.6" y="-75.2" type="curve" smooth="yes"/>
+      <point x="522.2" y="-75.2"/>
+      <point x="277.0" y="192.39999999999998"/>
+      <point x="325.8" y="542.2" type="curve" smooth="yes"/>
+      <point x="375.2" y="891.2"/>
+      <point x="698.8" y="1185.2"/>
+      <point x="1060.6000000000001" y="1186.0" type="curve" smooth="yes"/>
+      <point x="1403.6000000000001" y="1187.2"/>
+      <point x="1640.2" y="908.4"/>
+      <point x="1592.4" y="569.0" type="curve" smooth="yes"/>
+      <point x="1543.0" y="221.20000000000002"/>
+      <point x="1219.0" y="-75.2"/>
+    </contour>
+    <component base="c" xOffset="401.6" yOffset="55.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
