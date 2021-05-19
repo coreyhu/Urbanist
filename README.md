@@ -51,6 +51,8 @@ cd ../scripts
 python postprocess.py
 ```
 
+If you're unable to run `gftools builder config.yaml`, glyphsLib currently doesn't support Glyphs3 .glyphs files. You can try using [this glyphsLib fork](https://github.com/simoncozens/glyphsLib/tree/glyphs3-try3) instead.
+
 ## Copyright
 
 Copyright (c) 2021, Corey Hu (corey.huym@gmail.com)
