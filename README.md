@@ -39,6 +39,18 @@ AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛ
 
 ### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest version here</a>
 
+## Build from source
+
+It is recommended to export using gftools builder.
+
+```
+cd ./source
+pip install gftools
+gftools builder Urbanist.glyphs
+cd ../scripts
+python postprocess.py
+```
+
 ## Copyright
 
 Copyright (c) 2021, Corey Hu (corey.huym@gmail.com)
