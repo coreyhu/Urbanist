@@ -1,14 +1,14 @@
-    sources:
-      - Urbanist.glyphs
-    axisOrder:
-      - wght
-      - ital
-    familyName: Urbanist
-    stat:
-      Urbanist[wght,ital].ttf:
-      - name: Weight
-        tag: wght
-        values:
+sources:
+  - Urbanist.glyphs
+axisOrder:
+  - ital
+  - wght
+familyName: Urbanist
+stat:
+  Urbanist[ital,wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
         - name: Thin
           value: 100
         - name: ExtraLight
@@ -29,9 +29,9 @@
           value: 800
         - name: Black
           value: 900
-      - name: Italic
-        tag: ital
-        values:
+    - name: Italic
+      tag: ital
+      values:
         - name: Roman
           value: 0
           linkedValue: 1
