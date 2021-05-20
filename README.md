@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/demo.png" width=80%>
 </p>
 
-Urbanist is an open source low-contrast, geometric sans serif inspired by Modernist typography. Designed from elementary shapes, Urbanist carries an intentional neutrality that grants it versatility across a variety of print and digital mediums.
+Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography. The project was launched by Corey Hu in 2020 with 9 weights and accompanying italics. Conceived from elementary shapes, Urbanist's neutrality makes it a versatile display font for print and digital mediums. The font is currently available as a variable font with "Weight" and "Italic" axes.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/styles.png" width=80%>
@@ -28,7 +28,7 @@ There are 9 predefined weights, each with an italic set.
 - ExtraBold
 - Black
 
-The variable font file utilizes 2 axes for tuning weight (100-900) and italic (0-1).
+The variable font file utilizes 2 axes for tuning weight (100-900) and italics (0-1).
 
 ## Current Status
 
