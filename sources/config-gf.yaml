@@ -1,0 +1,9 @@
+sources:
+  - Urbanist.glyphs
+  - Urbanist-Italic.glyphs
+axisOrder:
+  - wght
+  - ital
+vfDir: ../fonts/gfvariable
+buildStatic: false
+familyName: Urbanist

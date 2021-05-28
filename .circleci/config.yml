@@ -16,10 +16,15 @@ jobs:
             sudo apt-get update
             sudo apt-get install ttfautohint
       - run:
-          name: run fontbakery tests
+          name: run static fontbakery tests
           command: |
             cd fonts/ttf
-            fontbakery check-googlefonts -n -l WARN -x com.google.fonts/check/ftxvalidator *.ttf
+            fontbakery check-googlefonts -n -l FAIL -x com.google.fonts/check/ftxvalidator *.ttf
+      - run:
+          name: run variable fontbakery tests
+          command: |
+            cd fonts/variable
+            fontbakery check-googlefonts -n -l FAIL -x com.google.fonts/check/ftxvalidator *.ttf
 
 workflows:
   launch:
