@@ -27,6 +27,6 @@ jobs:
             fontbakery check-googlefonts -n -l FAIL -x com.google.fonts/check/ftxvalidator *.ttf
 
 workflows:
-  launch:
+  Fontbakery Checks:
     jobs:
       - build
