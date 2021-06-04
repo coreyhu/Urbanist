@@ -41,17 +41,14 @@ AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛ
 
 ## Build from source
 
-It is recommended to export using gftools builder.
+To build fonts, use the provided build script:
 
 ```
 cd ./source
-pip install gftools
-gftools builder config.yaml
-cd ../scripts
-python postprocess.py
+bash build.sh
 ```
 
-If you're unable to run `gftools builder config.yaml`, glyphsLib currently doesn't support Glyphs3 .glyphs files. You can try using [this glyphsLib fork](https://github.com/simoncozens/glyphsLib/tree/glyphs3-try3) instead.
+If you're unable to run the build script, glyphsLib currently doesn't support Glyphs3 .glyphs files. You can try using [this glyphsLib fork](https://github.com/simoncozens/glyphsLib/tree/glyphs3-try3) instead.
 
 ## Copyright
 
