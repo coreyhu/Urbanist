@@ -42,10 +42,13 @@ def set_windows_subfamily_name(ttFont, subfamily_name):
 def split_partial_font(ttFont):
   os.makedirs("../fonts/gfvariable", exist_ok=True)
   roman_partial = instancer.instantiateVariableFont(ttFont, {"ital": 0})
-  roman_partial.save("../fonts/gfvariable/Urbanist[wght].ttf")
+  roman_save_path = "../fonts/gfvariable/Urbanist[wght].ttf"
+  roman_partial.save(roman_save_path)
 
   italic_partial = instancer.instantiateVariableFont(ttFont, {"ital": 1})
-  italic_partial.save("../fonts/gfvariable/Urbanist-Italic[wght].ttf")
+  italic_save_path = "../fonts/gfvariable/Urbanist-Italic[wght].ttf"
+  italic_partial.save(italic_save_path)
+  print("Created partial VFs {} and {}".format(roman_save_path, italic_save_path))
 
 
 if __name__ == "__main__":
@@ -53,10 +56,12 @@ if __name__ == "__main__":
     # Rename Urbanist font in variable directory
     new_path = re.sub(r"Urbanist-.*?\[", "Urbanist[", font_path)
     os.rename(font_path, new_path)
+    print("Renaming {} to {}".format(font_path, new_path))
 
   for font_path in glob.glob("../fonts/*variable/*.ttf"):
     # Add avar table to all variable fonts
     with open(font_path, "rb") as f:
+      print("Add avar table to {}".format(font_path))
       ttFont = TTFont(f)
       add_avar_table(ttFont)
       ttFont.save(font_path)
@@ -72,6 +77,7 @@ if __name__ == "__main__":
     # For Urbanist-Italic, set ttFont["head"].macStyle = MacStyle.ITALIC
     # Change OS/2.fsSelection to 0x0081 
     with open(font_path, "rb") as f:
+      print("Fix italic naming in {}".format(font_path))
       ttFont = TTFont(f)
       set_windows_subfamily_name(ttFont, "Italic")
       ttFont["head"].macStyle = MacStyle.ITALIC
@@ -81,6 +87,7 @@ if __name__ == "__main__":
   for font_path in glob.glob("../fonts/ttf/*Italic.ttf"):
     # Fix Italic Angle
     with open(font_path, "rb") as f:
+      print("Fix italic angle in {}".format(font_path))
       ttFont = TTFont(f)
       fix_italic_angle(ttFont)
       ttFont.save(font_path)
