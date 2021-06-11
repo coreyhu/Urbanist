@@ -23,7 +23,7 @@ jobs:
       - run:
           name: run variable fontbakery tests
           command: |
-            cd fonts/gfvariable
+            cd fonts/variable
             fontbakery check-googlefonts -n -l FAIL -x com.google.fonts/check/ftxvalidator *.ttf
 
 workflows:
