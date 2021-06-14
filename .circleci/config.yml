@@ -24,7 +24,7 @@ jobs:
           name: run variable fontbakery tests
           command: |
             cd fonts/variable
-            fontbakery check-googlefonts -n -l FAIL -x com.google.fonts/check/ftxvalidator *.ttf
+            fontbakery check-googlefonts -n -l FAIL -x com.google.fonts/check/ftxvalidator 'Urbanist[wght].ttf' 'Urbanist-Italic[wght].ttf'
 
 workflows:
   Fontbakery Checks:
