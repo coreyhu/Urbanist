@@ -1,5 +1,5 @@
 {
-.appVersion = "3086";
+.appVersion = "3058";
 copyright = "Copyright 2021 The Urbanist Project Authors (https://github.com/coreyhu/Urbanist)";
 customParameters = (
 {
@@ -6106,7 +6106,6 @@ width = 600;
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 1, 0}";
 },
 {
 name = circumflexcomb;
@@ -6120,7 +6119,6 @@ width = 360;
 components = (
 {
 name = I;
-transform = "{1, 0, 0, 1, 1, 0}";
 },
 {
 name = circumflexcomb;
@@ -34579,7 +34577,6 @@ width = 1206;
 components = (
 {
 name = y;
-transform = "{1, 0, 0, 1, -1, 0}";
 },
 {
 name = acutecomb;
@@ -34593,7 +34590,6 @@ width = 946;
 components = (
 {
 name = y;
-transform = "{1, 0, 0, 1, -1, 0}";
 },
 {
 name = acutecomb;
