@@ -1,6 +1,6 @@
-    sources:
-      - Urbanist.glyphs
-    axisOrder:
-      - wght
-      - ital
-    familyName: Urbanist
+sources:
+  - Urbanist.glyphs
+axisOrder:
+  - wght
+  - ital
+familyName: Urbanist
