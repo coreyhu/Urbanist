@@ -1,5 +1,5 @@
 {
-.appVersion = "3058";
+.appVersion = "3091";
 copyright = "Copyright 2021 The Urbanist Project Authors (https://github.com/coreyhu/Urbanist)";
 customParameters = (
 {
@@ -54,6 +54,10 @@ value = (
 2,
 3
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 },
 {
 name = licenseURL;
