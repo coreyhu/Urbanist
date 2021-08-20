@@ -12,6 +12,8 @@
 
 Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography. The project was launched by Corey Hu in 2020 with 9 weights and accompanying italics. Conceived from elementary shapes, Urbanist's neutrality makes it a versatile display font for print and digital mediums. The font is currently available as a variable font with "Weight" and "Italic" axes.
 
+<h3 align="center"><a href="https://fonts.google.com/specimen/Urbanist">Download Urbanist on Google Fonts</a></h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/styles.png" width=80%>
 </p>
@@ -37,7 +39,8 @@ Urbanist contains the following glyphs:
 AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcćçdðeéêëèfghiıíîïìjklmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳzªºμ0123456789₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹⁄½¼¾⅛⅜⅝⅞.,:;…!¡?¿·•\*#/\(){}[]-–—\_‚„“”‘’«»‹›‵"'    
 .null ¢¤$€£¥+−×÷=≠><≥≤±≈~¬^∅∞∫∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕◊@&¶§©®™°|¦†‡�ʼ̧̈̇̀́̂̊̃¨˙`´˝ˆˇ˘˚˜¯¸˛
 
-### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest version here</a>
+#### <a href="https://fonts.google.com/specimen/Urbanist">Download on Google Fonts</a>
+### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest release here</a>
 
 ## Build from source
 
