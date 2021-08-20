@@ -39,8 +39,8 @@ Urbanist contains the following glyphs:
 AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcćçdðeéêëèfghiıíîïìjklmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳzªºμ0123456789₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹⁄½¼¾⅛⅜⅝⅞.,:;…!¡?¿·•\*#/\(){}[]-–—\_‚„“”‘’«»‹›‵"'    
 .null ¢¤$€£¥+−×÷=≠><≥≤±≈~¬^∅∞∫∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕◊@&¶§©®™°|¦†‡�ʼ̧̈̇̀́̂̊̃¨˙`´˝ˆˇ˘˚˜¯¸˛
 
-#### <a href="https://fonts.google.com/specimen/Urbanist">Download on Google Fonts</a>
-### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest release here</a>
+### <a href="https://fonts.google.com/specimen/Urbanist">Download on Google Fonts</a>
+#### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest release here</a>
 
 ## Build from source
 
