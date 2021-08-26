@@ -20,5 +20,12 @@ POST-PROCESSING ADJUSTMENTS
 python3 ../scripts/postprocess.py 
 
 echo ".
+VALIDATING FONTS
+."
+fontbakery check-googlefonts -l FAIL com.google.fonts/check/ftxvalidator ../fonts/variable/Urbanist-Italic\[wght\].ttf ../fonts/variable/Urbanist\[wght\].ttf
+
+fontbakery check-googlefonts -l FAIL com.google.fonts/check/ftxvalidator ../fonts/ttf/*.ttf
+
+echo ".
 COMPLETE
 ."
