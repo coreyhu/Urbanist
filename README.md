@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/header.png" width=80%>
 </p>
 
-# The Urbanist Font Family
+# Urbanist
 
 [![coreyhu](https://circleci.com/gh/coreyhu/Urbanist.svg?style=shield)](https://app.circleci.com/github/coreyhu/Urbanist/pipelines)
 
@@ -12,7 +12,8 @@
 
 Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography. The project was launched by Corey Hu in 2020 with 9 weights and accompanying italics. Conceived from elementary shapes, Urbanist's neutrality makes it a versatile display font for print and digital mediums. The font is currently available as a variable font with "Weight" and "Italic" axes.
 
-<h3 align="center"><a href="https://fonts.google.com/specimen/Urbanist">Download Urbanist on Google Fonts</a></h3>
+### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest release here</a>
+#### <a href="https://fonts.google.com/specimen/Urbanist">Download Urbanist v1.251 on Google Fonts</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/styles.png" width=80%>
@@ -32,15 +33,10 @@ There are 9 predefined weights, each with an italic set.
 
 The variable font file utilizes 2 axes for tuning weight (100-900) and italics (0-1).
 
-## Current Status
 
-Urbanist contains the following glyphs:
+## Want to suggest an improvement?
+To suggest an improvement or fix, open an issue (please check if a similar issue exists first). If you have changes, open a pull request. See more details in <a href="https://github.com/coreyhu/Urbanist/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a>
 
-AÁÂÄÀÅÃÆBCÇDÐEÉÊËÈFGHIÍÎÏÌJKLMNÑOÓÔÖÒØÕŒPÞQRSẞTUÚÛÜÙVWẂŴẄẀXYÝŶŸỲZaáâäàåãæbcćçdðeéêëèfghiıíîïìjklmnñoóôöòøõœpþqrsßtuúûüùvwẃŵẅẁxyýŷÿỳzªºμ0123456789₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹⁄½¼¾⅛⅜⅝⅞.,:;…!¡?¿·•\*#/\(){}[]-–—\_‚„“”‘’«»‹›‵"'    
-.null ¢¤$€£¥+−×÷=≠><≥≤±≈~¬^∅∞∫∏∑√∂µ%‰↑↗→↘↓↙←↖↔↕◊@&¶§©®™°|¦†‡�ʼ̧̈̇̀́̂̊̃¨˙`´˝ˆˇ˘˚˜¯¸˛
-
-### <a href="https://fonts.google.com/specimen/Urbanist">Download on Google Fonts</a>
-#### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest release here</a>
 
 ## Build from source
 
@@ -50,6 +46,8 @@ To build fonts, use the provided build script:
 cd ./source
 bash build.sh
 ```
+
+Fonts will be built in `./fonts/`.
 
 If you're unable to run the build script, glyphsLib currently doesn't support Glyphs3 .glyphs files. You can try using [this glyphsLib fork](https://github.com/simoncozens/glyphsLib/tree/glyphs3-try3) instead.
 
