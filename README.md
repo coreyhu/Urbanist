@@ -43,7 +43,7 @@ To suggest an improvement or fix, open an issue (please check if a similar issue
 To build fonts, use the provided build script:
 
 ```
-cd ./source
+cd ./sources
 bash build.sh
 ```
 
