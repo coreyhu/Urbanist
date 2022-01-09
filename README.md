@@ -13,7 +13,7 @@
 Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography. The project was launched by Corey Hu in 2020 with 9 weights and accompanying italics. Conceived from elementary shapes, Urbanist's neutrality makes it a versatile display font for print and digital mediums. The font is currently available as a variable font with "Weight" and "Italic" axes.
 
 ### <a href="https://github.com/coreyhu/Urbanist/releases">Download the latest release here</a>
-#### <a href="https://fonts.google.com/specimen/Urbanist">Download Urbanist v1.251 on Google Fonts</a>
+#### <a href="https://fonts.google.com/specimen/Urbanist">Download Urbanist v1.303 on Google Fonts</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/styles.png" width=80%>
