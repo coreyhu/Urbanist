@@ -53,7 +53,7 @@ If you're unable to run the build script, glyphsLib currently doesn't support Gl
 
 ## Copyright
 
-Copyright (c) 2021, Corey Hu (corey.huym@gmail.com)
+Copyright (c) 2021, Corey Hu (corey@coreyhu.com)
 
 ## License
 

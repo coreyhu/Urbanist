@@ -9,4 +9,4 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Corey Hu <corey.huym@gmail.com>
+Corey Hu <corey@coreyhu.com>

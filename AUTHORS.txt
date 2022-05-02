@@ -5,4 +5,4 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Corey Hu <corey.huym@gmail.com>
+Corey Hu <corey@coreyhu.com>
