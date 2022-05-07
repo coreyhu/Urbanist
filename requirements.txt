@@ -1,1 +1,4 @@
-gftools
+gftools>=0.9.9
+fonttools>=4.33.3
+fontmake>=3.3.0
+fontbakery>=0.8.8
