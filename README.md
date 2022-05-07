@@ -7,7 +7,7 @@
 [![coreyhu](https://circleci.com/gh/coreyhu/Urbanist.svg?style=shield)](https://app.circleci.com/github/coreyhu/Urbanist/pipelines)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/demo.png" width=80%>
+  <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/demo_2.png" width=80%>
 </p>
 
 Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography. The project was launched by Corey Hu in 2020 with 9 weights and accompanying italics. Conceived from elementary shapes, Urbanist's neutrality makes it a versatile display font for print and digital mediums. The font is currently available as a variable font with "Weight" and "Italic" axes.
@@ -16,7 +16,7 @@ Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design an
 #### <a href="https://fonts.google.com/specimen/Urbanist">Download Urbanist v1.303 on Google Fonts</a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/styles.png" width=80%>
+  <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/variable.png" width=80%>
 </p>
 
 There are 9 predefined weights, each with an italic set.
@@ -53,7 +53,7 @@ If you're unable to run the build script, glyphsLib currently doesn't support Gl
 
 ## Copyright
 
-Copyright (c) 2021, Corey Hu (corey@coreyhu.com)
+Copyright (c) 2022, Corey Hu (corey@coreyhu.com)
 
 ## License
 
