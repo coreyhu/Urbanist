@@ -2,3 +2,4 @@
 sources/master_ufo
 sources/instance_ufo
 .vscode/*
+venv/
