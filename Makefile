@@ -19,7 +19,10 @@ build: build.stamp
 venv: venv/touchfile
 
 build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
-	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml && touch build.stamp
+	. venv/bin/activate; rm -rf fonts/; gftools builder sources/config.yaml 
+	fonttools varLib.instancer ../fonts/variable/Urbanist\[ital,wght\].ttf ital=0 -o ../fonts/variable/Urbanist\[wght\].ttf --update-name-table
+	fonttools varLib.instancer ../fonts/variable/Urbanist\[ital,wght\].ttf ital=1 -o ../fonts/variable/Urbanist-Italic\[wght\].ttf --update-name-table
+	touch build.stamp
 
 .init.stamp: venv
 	. venv/bin/activate; python3 scripts/first-run.py
