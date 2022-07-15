@@ -4,7 +4,17 @@
 
 # Urbanist
 
-[![coreyhu](https://circleci.com/gh/coreyhu/Urbanist.svg?style=shield)](https://app.circleci.com/github/coreyhu/Urbanist/pipelines)
+[![][Fontbakery]](https://coreyhu.github.io/urbanist/fontbakery/fontbakery-report.html)
+[![][Universal]](https://coreyhu.github.io/urbanist/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://coreyhu.github.io/urbanist/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://coreyhu.github.io/urbanist/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://coreyhu.github.io/urbanist/fontbakery/fontbakery-report.html)
+
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoreyhu%2Furbanist%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoreyhu%2Furbanist%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoreyhu%2Furbanist%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoreyhu%2Furbanist%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fcoreyhu%2Furbanist%2Fgh-pages%2Fbadges%2FUniversal.json
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coreyhu/Urbanist/master/documentation/readme/demo_2.png" width=80%>
