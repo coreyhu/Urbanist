@@ -59,7 +59,7 @@ jobs:
       run: cp scripts/index.html out/index.html
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      if: ${{ github.ref == 'refs/heads/main' }}
+      if: ${{ github.ref == 'refs/heads/googlefonts-template-integration' }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./out
