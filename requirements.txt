@@ -30,7 +30,7 @@ Deprecated==1.2.13
 drawbot-skia==0.4.8
 exceptiongroup==1.0.0rc8
 font-v==2.1.0
-fontbakery==0.8.10.dev14+g4fc44c54
+fontbakery==0.8.9
 fontdiffenator==0.9.12
 fontFeatures==1.7.2
 fontmake==3.4.0
