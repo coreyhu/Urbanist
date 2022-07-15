@@ -57,7 +57,7 @@ def fix_postscript_names(ttFont, ps_nameids, prefix):
       WindowsLanguageID.ENGLISH_USA
     )
     suffix = str(cur_name).split("-")[-1]
-    if suffix.endswith("Italic"):
+    if suffix != "Italic" and suffix.endswith("Italic"):
       suffix = suffix[:-6]
     
     if suffix == "":
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     # Fix roman postscript names
     ttFont = TTFont(f)
     ps_nameids = [instance.postscriptNameID for instance in ttFont['fvar'].instances]
-    fix_postscript_names(ttFont, ps_nameids, "UrbanistRoman")
+    fix_postscript_names(ttFont, ps_nameids, "Urbanist")
     
     # Fix OS/2.fsSelection bit 7
     
