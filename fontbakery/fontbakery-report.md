@@ -46,16 +46,16 @@ Fontbakery version: 0.8.9
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 10 more.
+	* registered
+	* uni1E62 and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -95,19 +95,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -175,16 +171,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Scircumflex
-	* trademark
-	* registered
-	* uni1E62
-	* ordfeminine
 	* paragraph
 	* ordmasculine
-	* S
 	* copyright
-	* Scedilla and 3 more.
+	* Sacute
+	* registered
+	* uni1E62
+	* trademark
+	* ordfeminine
+	* Scircumflex
+	* Scaron and 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -224,19 +220,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -342,16 +334,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
+	* degree
+	* uni1E04
 	* dagger
-	* uni1E62
-	* ordfeminine
-	* product
 	* ordmasculine
-	* daggerdbl and 10 more.
+	* copyright
+	* Sacute
+	* product
+	* registered
+	* uni1E62
+	* trademark and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -391,19 +383,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -501,16 +489,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 10 more.
+	* registered
+	* uni1E62 and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -550,19 +538,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -656,16 +640,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Scircumflex
-	* trademark
-	* registered
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
 	* ordmasculine
-	* degree
-	* S
-	* copyright and 4 more.
+	* copyright
+	* Sacute
+	* registered
+	* uni1E62
+	* trademark
+	* ordfeminine
+	* Scircumflex and 4 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -705,19 +689,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -823,16 +803,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 11 more.
+	* registered
+	* uni1E62 and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -872,19 +852,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -960,16 +936,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
+	* degree
+	* uni1E04
 	* dagger
-	* uni1E62
-	* ordfeminine
-	* product
 	* ordmasculine
-	* daggerdbl and 10 more.
+	* copyright
+	* Sacute
+	* product
+	* registered
+	* uni1E62
+	* trademark and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1009,19 +985,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -1113,16 +1085,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
+	* degree
+	* uni1E04
 	* dagger
-	* uni1E62
-	* ordfeminine
-	* product
 	* ordmasculine
-	* daggerdbl and 10 more.
+	* copyright
+	* Sacute
+	* product
+	* registered
+	* uni1E62
+	* trademark and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1162,19 +1134,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -1246,16 +1214,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 10 more.
+	* registered
+	* uni1E62 and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1297,17 +1265,17 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- And 6 more.
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: registered	Contours detected: 5	Expected: 3 or 4
+
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -1375,16 +1343,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Scircumflex
-	* trademark
-	* registered
-	* uni1E62
-	* ordfeminine
 	* paragraph
 	* ordmasculine
-	* S
 	* copyright
-	* Scedilla and 3 more.
+	* Sacute
+	* registered
+	* uni1E62
+	* trademark
+	* ordfeminine
+	* Scircumflex
+	* Scaron and 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1424,19 +1392,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -1514,16 +1478,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* Scircumflex
-	* trademark
-	* registered
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
 	* ordmasculine
-	* degree
-	* eth
-	* S and 5 more.
+	* copyright
+	* Sacute
+	* registered
+	* uni1E62
+	* trademark
+	* ordfeminine
+	* Scircumflex and 5 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1563,19 +1527,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -1653,16 +1613,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
+	* degree
+	* paragraph
+	* uni1E04
+	* ordmasculine
+	* copyright
+	* Sacute
+	* product
 	* registered
 	* uni1E62
-	* ordfeminine
-	* paragraph
-	* product
-	* ordmasculine
-	* degree and 9 more.
+	* trademark and 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1702,19 +1662,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -1804,16 +1760,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 11 more.
+	* registered
+	* uni1E62 and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1855,17 +1811,17 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- And 6 more.
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: registered	Contours detected: 5	Expected: 3 or 4
+
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -1935,16 +1891,16 @@ Use -F or --full-lists to disable shortening of long lists.
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 11 more.
+	* registered
+	* uni1E62 and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1986,17 +1942,17 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- And 6 more.
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: registered	Contours detected: 5	Expected: 3 or 4
+
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -2088,16 +2044,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 11 more.
+	* registered
+	* uni1E62 and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2137,19 +2093,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -2247,16 +2199,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
+	* degree
+	* uni1E04
 	* dagger
-	* uni1E62
-	* ordfeminine
-	* product
 	* ordmasculine
-	* daggerdbl and 10 more.
+	* copyright
+	* Sacute
+	* product
+	* registered
+	* uni1E62
+	* trademark and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2296,19 +2248,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -2386,16 +2334,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
-	* registered
-	* dagger
-	* uni1E62
-	* ordfeminine
+	* degree
 	* paragraph
+	* uni1E04
+	* dagger
+	* ordmasculine
+	* copyright
+	* Sacute
 	* product
-	* ordmasculine and 10 more.
+	* registered
+	* uni1E62 and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2437,17 +2385,17 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: aogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- And 6 more.
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-Use -F or --full-lists to disable shortening of long lists.
+	- Glyph name: registered	Contours detected: 5	Expected: 3 or 4
+
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
+
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
@@ -2537,16 +2485,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* B
-	* Scircumflex
-	* trademark
+	* degree
+	* paragraph
+	* uni1E04
+	* ordmasculine
+	* copyright
+	* Sacute
+	* product
 	* registered
 	* uni1E62
-	* ordfeminine
-	* paragraph
-	* product
-	* ordmasculine
-	* degree and 9 more.
+	* trademark and 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2586,19 +2534,15 @@ The following glyphs do not have the recommended number of contours:
 
 	- Glyph name: uogonek	Contours detected: 2	Expected: 1
 
-	- Glyph name: uni0394	Contours detected: 1	Expected: 2
-
-	- Glyph name: uni2206	Contours detected: 1	Expected: 2
-
 	- Glyph name: Uogonek	Contours detected: 2	Expected: 1
 
 	- Glyph name: aogonek	Contours detected: 3	Expected: 2
 
-	- Glyph name: eogonek	Contours detected: 3	Expected: 2 
+	- Glyph name: eogonek	Contours detected: 3	Expected: 2
 
-	- And 4 more.
+	- Glyph name: uni00AD	Contours detected: 1	Expected: 0 
 
-Use -F or --full-lists to disable shortening of long lists.
+	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
 </div></details><details><summary>⚠ <b>WARN:</b> Ensure dotted circle glyph is present and can attach marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/dotted_circle">com.google.fonts/check/dotted_circle</a>)</summary><div>
 
