@@ -42,7 +42,7 @@ freetype-py==2.3.0
 fs==2.4.16
 gfdiffbrowsers==0.1.7
 gflanguages==0.4.0
-gftools==0.9.14
+gftools[qa]==0.9.14
 gitdb==4.0.9
 GitPython==3.1.27
 glyphsets==0.5.2
