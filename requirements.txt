@@ -12,7 +12,7 @@ browserstack-local==1.2.2
 bump2version==1.0.1
 bumpfontversion==0.4.1
 cattrs==22.1.0
-certifi==2022.6.15
+certifi==2022.12.7
 cffi==1.15.1
 cffsubr==0.2.9.post1
 charset-normalizer==2.1.0
