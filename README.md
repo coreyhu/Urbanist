@@ -50,16 +50,10 @@ To suggest an improvement or fix, open an issue (please check if a similar issue
 
 ## Build from source
 
-To build fonts, use the provided build script:
-
-```
-cd ./sources
-bash build.sh
-```
-
-Fonts will be built in `./fonts/`.
-
-If you're unable to run the build script, glyphsLib currently doesn't support Glyphs3 .glyphs files. You can try using [this glyphsLib fork](https://github.com/simoncozens/glyphsLib/tree/glyphs3-try3) instead.
+To build fonts from the source file, use the build command in your terminal:
+1. Clone this repostory: `git clone https://github.com/coreyhu/Urbanist.git && cd Urbanist`
+2. Use the build command: `make build`
+3. Find the built font files in the `fonts/` directory
 
 ## Copyright
 
