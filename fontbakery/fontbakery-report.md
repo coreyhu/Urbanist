@@ -46,16 +46,16 @@ Fontbakery version: 0.8.9
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* uni0218
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 9 more.
+	* copyright
+	* Scircumflex
+	* S and 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -171,15 +171,15 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -320,16 +320,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* uni0218
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright
+	* Scircumflex
 	* S
-	* trademark and 4 more.
+	* registered
+	* uni1E62 and 4 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -483,16 +483,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 10 more.
+	* copyright
+	* Scircumflex and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -634,16 +634,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 11 more.
+	* copyright and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -767,16 +767,16 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 10 more.
+	* copyright
+	* Scircumflex and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -892,16 +892,16 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* uni0218
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright
+	* Scircumflex
 	* S
-	* trademark and 3 more.
+	* registered
+	* uni1E62 and 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1055,15 +1055,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -1190,16 +1190,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* eth
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* uni0218
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright
-	* S and 5 more.
+	* Scircumflex
+	* S
+	* registered
+	* uni1E62 and 5 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1325,16 +1325,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 11 more.
+	* copyright and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1478,16 +1478,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 10 more.
+	* copyright
+	* Scircumflex and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1629,16 +1629,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* uni0218
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright
+	* Scircumflex
 	* S
-	* trademark and 3 more.
+	* registered
+	* uni1E62 and 3 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1764,16 +1764,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-short-s
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 11 more.
+	* copyright and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -1919,16 +1919,16 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* uni0218
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 9 more.
+	* copyright
+	* Scircumflex
+	* S and 9 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2066,15 +2066,15 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -2195,16 +2195,16 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 11 more.
+	* copyright and 11 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2326,16 +2326,16 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* paragraph
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
+	* Scedilla
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
 	* ordfeminine
-	* registered
-	* Scedilla and 10 more.
+	* copyright
+	* Scircumflex and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
 </div></details><details><summary>⚠ <b>WARN:</b> Is there kerning info for non-ligated sequences? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/kerning_for_non_ligated_sequences">com.google.fonts/check/kerning_for_non_ligated_sequences</a>)</summary><div>
@@ -2455,15 +2455,15 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** Following glyphs differ greatly from Google Fonts version:
-	* uni1E62
-	* Sacute
-	* uni1E04
-	* eth
 	* sterling
-	* Scircumflex
-	* ordfeminine
-	* registered
 	* Scedilla
+	* daggerdbl
+	* uni0218
+	* dagger
+	* B
+	* Scaron
+	* Sacute
+	* ordfeminine
 	* copyright and 10 more.
 
 Use -F or --full-lists to disable shortening of long lists.
