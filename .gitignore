@@ -1,5 +1,5 @@
 *~
-venv
+venv*
 build.stamp
 proof
 node_modules
