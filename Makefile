@@ -25,15 +25,15 @@ build.stamp: venv .init.stamp sources/config.yaml $(SOURCES)
 	(for config in sources/config*.yaml; do . venv/bin/activate; gftools builder $$config; done)  && touch build.stamp
 
 .init.stamp: venv
-	. venv/bin/activate; python3 scripts/first-run.py
+	. venv/bin/activate; python scripts/first-run.py
 
 venv/touchfile: requirements.txt
-	test -d venv || python3 -m venv venv
+	test -d venv || python -m venv venv
 	. venv/bin/activate; pip install -Ur requirements.txt
 	touch venv/touchfile
 
 venv-test/touchfile: requirements-test.txt
-	test -d venv-test || python3 -m venv venv-test
+	test -d venv-test || python -m venv venv-test
 	. venv-test/bin/activate; pip install -Ur requirements-test.txt
 	touch venv-test/touchfile
 
@@ -46,7 +46,7 @@ proof: venv build.stamp
 images: venv $(DRAWBOT_OUTPUT)
 
 %.png: %.py build.stamp
-	. venv/bin/activate; python3 $< --output $@
+	. venv/bin/activate; python $< --output $@
 
 clean:
 	rm -rf venv
