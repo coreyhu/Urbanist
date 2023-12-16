@@ -22,3 +22,8 @@ Thumbs.db
 # Autosaved by application when editing
 ######################
 *(Autosaved).*
+
+# Build files
+######################
+.ninja_log
+build.ninja
