@@ -57,7 +57,7 @@ To build fonts from the source file, use the build command in your terminal:
 
 ## Copyright
 
-Copyright (c) 2022, Corey Hu (corey@coreyhu.com)
+Copyright (c) 2024, Corey Hu (corey@coreyhu.com)
 
 ## License
 
