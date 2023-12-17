@@ -1,11 +1,6 @@
 {
 .appVersion = "3228";
 .formatVersion = 3;
-DisplayStrings = (
-"Ū",
-"◌",
-"/enghook"
-);
 axes = (
 {
 name = Weight;
@@ -81675,7 +81670,7 @@ unicode = 38;
 glyphname = paragraph;
 kernLeft = paragraph;
 kernRight = paragraph;
-lastChange = "2023-12-17 22:17:53 +0000";
+lastChange = "2023-12-17 22:37:05 +0000";
 layers = (
 {
 hints = (
@@ -96097,7 +96092,7 @@ unicode = 8706;
 glyphname = micro;
 kernLeft = p;
 kernRight = u;
-lastChange = "2023-12-17 22:18:13 +0000";
+lastChange = "2023-12-17 22:37:20 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -96142,7 +96137,7 @@ shapes = (
 ref = mu;
 }
 );
-width = 1069.2;
+width = 1069;
 },
 {
 layerId = "94B51B0B-9135-4DC1-B8E7-35CDC56FC473";
