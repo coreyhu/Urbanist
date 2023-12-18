@@ -1,13 +1,13 @@
 *~
-venv
+venv*
 build.stamp
 proof
+fonts
 node_modules
 package-lock.json
 package.json
-sources/master_ufo
-sources/instance_ufo
-.vscode
+**/master_ufo
+**/instance_ufo
 out
 
 # OS generated files #
@@ -19,3 +19,12 @@ out
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Autosaved by application when editing
+######################
+*(Autosaved).*
+
+# Build files
+######################
+.ninja_log
+build.ninja
