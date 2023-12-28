@@ -1,6 +1,9 @@
 {
 .appVersion = "3228";
 .formatVersion = 3;
+DisplayStrings = (
+"⁄  ½ ¼ ¾⅛⅜⅝⅞"
+);
 axes = (
 {
 name = Weight;
@@ -23256,7 +23259,7 @@ unicode = 57;
 glyphname = fraction;
 kernLeft = frac_digits;
 kernRight = fraction;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 hints = (
@@ -23278,10 +23281,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-208,0,l),
-(600,1400,l),
-(358,1400,l),
-(-450,0,l)
+(-228,0,l),
+(580,1400,l),
+(378,1400,l),
+(-430,0,l)
 );
 }
 );
@@ -23323,7 +23326,7 @@ unicode = (8260,8725);
 glyphname = onehalf;
 kernLeft = one.numr;
 kernRight = one.numr;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -23366,7 +23369,7 @@ unicode = 189;
 glyphname = onequarter;
 kernLeft = one.numr;
 kernRight = one.numr;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -23409,7 +23412,7 @@ unicode = 188;
 glyphname = threequarters;
 kernLeft = three.numr;
 kernRight = three.numr;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -23452,7 +23455,7 @@ unicode = 190;
 glyphname = oneeighth;
 kernLeft = one.numr;
 kernRight = one.numr;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -23495,7 +23498,7 @@ unicode = 8539;
 glyphname = threeeighths;
 kernLeft = three.numr;
 kernRight = three.numr;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -23538,7 +23541,7 @@ unicode = 8540;
 glyphname = fiveeighths;
 kernLeft = five.numr;
 kernRight = five.numr;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
@@ -23581,7 +23584,7 @@ unicode = 8541;
 glyphname = seveneighths;
 kernLeft = seven.numr;
 kernRight = seven.numr;
-lastChange = "2023-12-28 06:34:39 +0000";
+lastChange = "2023-12-28 06:43:37 +0000";
 layers = (
 {
 layerId = "10BC12B3-5274-42E3-B5BC-F74F362F0DF4";
