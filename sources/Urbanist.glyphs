@@ -1,20 +1,6 @@
 {
 .appVersion = "3228";
 .formatVersion = 3;
-DisplayStrings = (
-"Ľď
-ľH
-ťH
-ťT
-ťW
-ťX
-ťY
-ťZ
-ť*
-ť!
-ť'
-ť’"
-);
 axes = (
 {
 name = Weight;
@@ -10267,7 +10253,7 @@ unicode = 90;
 glyphname = Zacute;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2023-12-27 06:28:39 +0000";
+lastChange = "2023-12-28 00:49:33 +0000";
 layers = (
 {
 layerId = "9AF1F7D9-E035-453E-B2A8-46DE370997D0";
@@ -10289,11 +10275,11 @@ shapes = (
 ref = Z;
 },
 {
-pos = (86,402);
+pos = (26,402);
 ref = acutecomb;
 }
 );
-width = 1292;
+width = 1172;
 }
 );
 unicode = 377;
@@ -10337,7 +10323,7 @@ unicode = 381;
 glyphname = Zdotaccent;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2023-12-27 06:28:39 +0000";
+lastChange = "2023-12-28 00:49:33 +0000";
 layers = (
 {
 layerId = "9AF1F7D9-E035-453E-B2A8-46DE370997D0";
@@ -10359,11 +10345,11 @@ shapes = (
 ref = Z;
 },
 {
-pos = (95,400);
+pos = (35,400);
 ref = dotaccentcomb;
 }
 );
-width = 1292;
+width = 1172;
 }
 );
 unicode = 379;
@@ -10372,7 +10358,7 @@ unicode = 379;
 glyphname = Zdotbelow;
 kernLeft = Z;
 kernRight = Z;
-lastChange = "2023-12-27 06:28:39 +0000";
+lastChange = "2023-12-28 00:49:33 +0000";
 layers = (
 {
 layerId = "9AF1F7D9-E035-453E-B2A8-46DE370997D0";
@@ -10394,11 +10380,11 @@ shapes = (
 ref = Z;
 },
 {
-pos = (95,0);
+pos = (35,0);
 ref = dotbelowcomb;
 }
 );
-width = 1292;
+width = 1172;
 }
 );
 unicode = 7826;
@@ -40110,5 +40096,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 330;
+versionMinor = 340;
 }
