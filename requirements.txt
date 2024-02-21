@@ -22,7 +22,7 @@ collidoscope==0.6.5
 colorlog==6.8.0
 commandlines==0.4.1
 compreffor==0.5.5
-cryptography==41.0.7
+cryptography==42.0.4
 cu2qu==1.6.7.post2
 defcon==0.10.3
 dehinter==4.0.0
